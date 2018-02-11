@@ -1,5 +1,5 @@
 # 100DaysofCode - Log
-My version of the #100DaysOfCode repository.
+✅ Accountability for my journey on #100DaysOfCode!
 
 ## R1D44: February 10, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
