@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D48: February 14, 2018
+**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
+
+**Link to work:**
+[https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+
 ## R1D47: February 13, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project. Also, taught a web design class and did a few hours of live coding.
 
