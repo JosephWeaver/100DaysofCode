@@ -1,6 +1,16 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D51: February 17, 2018
+**Progress:** Tons of changes to my freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project today.
+
+- 09 🚧 [Build a Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz)
+
+**Thoughts:** I changed the font, background color, opponent and side-selection logic so that it includes a play button, logo, responsive media queries to make sure the screen size is large enough to view, and I put a whole bushelful of polish on everything compared to what it had been before.
+
+**Link to work:**
+[https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+
 ## R1D50: February 16, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project. Mostly pseudocode today.
 
