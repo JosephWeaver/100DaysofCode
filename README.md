@@ -1,6 +1,16 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D53: February 19, 2018
+**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
+
+- 09 🚧 [Build a Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz)
+
+**Thoughts:** Added OS detection so that the coloring for the "devils" side would be consistent with the emoji set being used. RIP Brandt.
+
+**Link to work:**
+[https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+
 ## R1D52: February 18, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
 
