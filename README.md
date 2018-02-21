@@ -1,8 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D54: February 20, 2018
+**Progress:** Live-coded for 3 hours in front of one of my classes at Academy of Art University. No links for today! (and no commits either, meaning my GitHub streak just got broken. Oh well. Plenty of time in the future to build up other streaks.)
+
 ## R1D53: February 19, 2018
-**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
+**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University.
 
 - 09 🚧 [Build a Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz)
 
