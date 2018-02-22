@@ -1,8 +1,22 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D55: February 21, 2018
+**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
+
+- 09 🚧 [Build a Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz)
+
+**Thoughts:** Added a whole lot of different stuff: Confetti upon win (which doesn't work, lol), win logic, two-player game logic.
+
+**Link to work:**
+[https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+[https://twitter.com/JoeWeaverDev/status/966530933804298240](https://twitter.com/JoeWeaverDev/status/966530933804298240)
+
 ## R1D54: February 20, 2018
 **Progress:** Live-coded for 3 hours in front of one of my classes at Academy of Art University. No links for today! (and no commits either, meaning my GitHub streak just got broken. Oh well. Plenty of time in the future to build up other streaks.)
+
+**Link:**
+[https://twitter.com/JoeWeaverDev/status/966356646216679425](https://twitter.com/JoeWeaverDev/status/966356646216679425)
 
 ## R1D53: February 19, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University.
@@ -23,6 +37,7 @@
 
 **Link to work:**
 [https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+[https://twitter.com/JoeWeaverDev/status/965443788574400513](https://twitter.com/JoeWeaverDev/status/965443788574400513)
 
 ## R1D51: February 17, 2018
 **Progress:** Tons of changes to my freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project today.
@@ -33,12 +48,14 @@
 
 **Link to work:**
 [https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+[https://twitter.com/JoeWeaverDev/status/965443788574400513](https://twitter.com/JoeWeaverDev/status/965443788574400513)
 
 ## R1D50: February 16, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project. Mostly pseudocode today.
 
 **Link to work:**
 [https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+[https://twitter.com/JoeWeaverDev/status/964746519210373122](https://twitter.com/JoeWeaverDev/status/964746519210373122)
 
 ## R1D49: February 15, 2018
 **Progress:** Updated [my website](http://www.joeweaver.me), and also continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
