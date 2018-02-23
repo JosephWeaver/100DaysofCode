@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D56: February 22, 2018
+**Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
+
+- 09 🚧 [Build a Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz)
+
+**Thoughts:** Disabled computer opponent choice since I wasn't able to work no the AI yet, fixed the confetti! (🎉🎊🎉🎊🎉🎊), added in a Tie game option (no confetti), changed some short variable names, fixed '==' operators so they are '===', and cleaned up a bunch.
+
+**Link to work:**
+[https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
+[https://twitter.com/JoeWeaverDev/status/966842683867017216](https://twitter.com/JoeWeaverDev/status/966842683867017216)
+
 ## R1D55: February 21, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
 
