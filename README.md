@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D57: February 23, 2018
+**Progress:** Learned some Pug (and used it) and practiced using my Sass (not SCSS) by creating a CodePen for a certain view of a project called Mafia Realm that I've been working on for a couple years, on and off.
+
+**Thoughts:**
+I found [Learn Pug.js with Pugs](https://codepen.io/mimoduo/post/learn-pug-js-with-pugs) which is a totally fantastic resource for learning Pug.js, and [shared that on Twitter](https://twitter.com/JoeWeaverDev/status/966930313065644032) as well.
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
+[Added Pug](https://github.com/MafiaRealm/MafiaRealm/commit/3efa03ffa4ba97696a819c879f661988d00c1c8a)
+[Added Sass](https://github.com/MafiaRealm/MafiaRealm/commit/e7713439db0a2f23016a664edc957ee0fca3f99a)
+
 ## R1D56: February 22, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
 
@@ -8,7 +19,7 @@
 
 **Thoughts:** Disabled computer opponent choice since I wasn't able to work no the AI yet, fixed the confetti! (🎉🎊🎉🎊🎉🎊), added in a Tie game option (no confetti), changed some short variable names, fixed '==' operators so they are '===', and cleaned up a bunch.
 
-**Link to work:**
+**Links to work:**
 [https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
 [https://twitter.com/JoeWeaverDev/status/966842683867017216](https://twitter.com/JoeWeaverDev/status/966842683867017216)
 
@@ -19,14 +30,14 @@
 
 **Thoughts:** Added a whole lot of different stuff: Confetti upon win (which doesn't work, lol), win logic, two-player game logic.
 
-**Link to work:**
+**Links to work:**
 [https://codepen.io/JoeWeaver/full/rJOJpz](https://codepen.io/JoeWeaver/full/rJOJpz)
 [https://twitter.com/JoeWeaverDev/status/966530933804298240](https://twitter.com/JoeWeaverDev/status/966530933804298240)
 
 ## R1D54: February 20, 2018
 **Progress:** Live-coded for 3 hours in front of one of my classes at Academy of Art University. No links for today! (and no commits either, meaning my GitHub streak just got broken. Oh well. Plenty of time in the future to build up other streaks.)
 
-**Link:**
+**Link to tweet:**
 [https://twitter.com/JoeWeaverDev/status/966356646216679425](https://twitter.com/JoeWeaverDev/status/966356646216679425)
 
 ## R1D53: February 19, 2018
