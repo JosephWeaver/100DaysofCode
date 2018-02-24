@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D58: February 24, 2018
+**Progress:** I made the drag-and-drop solution Sortable work in my project, and built out more of the game list.
+
+**Thoughts:** Finding a solution to my drag-and-drop problem was not as hard as I thought it would be. I managed to find a no-jQuery solution in [Sortable](https://rubaxa.github.io/Sortable/) which I like a lot so far. I still need to play around with the options to get some of the desired effects that I want, but otherwise I'm enjoying it.
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
+[Updated gamelist.pug](https://github.com/MafiaRealm/MafiaRealm/commit/1b8857b819380332c0a49ca3fc8efa6579b6d99f)
+[Updated gamelist.sass](https://github.com/MafiaRealm/MafiaRealm/commit/efc0e6ef82c20b27382e95e96d964282e262245a)
+[Created gamelist.js](https://github.com/MafiaRealm/MafiaRealm/commit/fdc745a07cf302a48b88f49b7d95a295ec74c30a)
+
 ## R1D57: February 23, 2018
 **Progress:** Learned some Pug (and used it) and practiced using my Sass (not SCSS) by creating a CodePen for a certain view of a project called Mafia Realm that I've been working on for a couple years, on and off.
 
