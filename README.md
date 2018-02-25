@@ -11,6 +11,7 @@
 [Updated gamelist.pug](https://github.com/MafiaRealm/MafiaRealm/commit/1b8857b819380332c0a49ca3fc8efa6579b6d99f)
 [Updated gamelist.sass](https://github.com/MafiaRealm/MafiaRealm/commit/efc0e6ef82c20b27382e95e96d964282e262245a)
 [Created gamelist.js](https://github.com/MafiaRealm/MafiaRealm/commit/fdc745a07cf302a48b88f49b7d95a295ec74c30a)
+[https://twitter.com/JoeWeaverDev/status/967549805076426752](https://twitter.com/JoeWeaverDev/status/967549805076426752)
 
 ## R1D57: February 23, 2018
 **Progress:** Learned some Pug (and used it) and practiced using my Sass (not SCSS) by creating a CodePen for a certain view of a project called Mafia Realm that I've been working on for a couple years, on and off.
@@ -22,6 +23,7 @@ I found [Learn Pug.js with Pugs](https://codepen.io/mimoduo/post/learn-pug-js-wi
 [https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
 [Added Pug](https://github.com/MafiaRealm/MafiaRealm/commit/3efa03ffa4ba97696a819c879f661988d00c1c8a)
 [Added Sass](https://github.com/MafiaRealm/MafiaRealm/commit/e7713439db0a2f23016a664edc957ee0fca3f99a)
+[https://twitter.com/JoeWeaverDev/status/967546362484047873](https://twitter.com/JoeWeaverDev/status/967546362484047873)
 
 ## R1D56: February 22, 2018
 **Progress:** Continued on the freecodeCamp [Tic-Tac-Toe Game](https://codepen.io/JoeWeaver/full/rJOJpz) project.
