@@ -1,6 +1,20 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D60: February 26, 2018
+**Progress:** Many changes and updates to GameList prototype.
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
+[https://twitter.com/JoeWeaverDev/status/968397750986354689](https://twitter.com/JoeWeaverDev/status/968397750986354689)
+
+## R1D59: February 25, 2018
+**Progress:** Many changes and updates to GameList prototype.
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
+[https://twitter.com/JoeWeaverDev/status/968397750986354689](https://twitter.com/JoeWeaverDev/status/968397750986354689)
+
 ## R1D58: February 24, 2018
 **Progress:** I made the drag-and-drop solution Sortable work in my project, and built out more of the game list.
 
