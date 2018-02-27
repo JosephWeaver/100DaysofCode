@@ -1,6 +1,15 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D61: February 27, 2018
+**Progress:** Many changes and updates to GameList prototype.
+
+**Thoughts:** Fixed the Sass mixin for my color blocks, fixed drag-and-drop ghost appearance, and kinda fixed the pencil/editing behavior for the game names. I gotta fix the tags appearance somehow too, and realign a loooooot of stuff, and figure out exactly which order I wat to display content in... but it's reallllly nice to finally have my `.color-bar` idea on the left finalllly working, with the drag-and-drop, the color selector, and I even added a favorites star! :D
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
+[https://twitter.com/JoeWeaverDev/status/968413363687473152](https://twitter.com/JoeWeaverDev/status/968413363687473152)
+
 ## R1D60: February 26, 2018
 **Progress:** Many changes and updates to GameList prototype.
 
