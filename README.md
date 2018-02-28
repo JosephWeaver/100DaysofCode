@@ -1,8 +1,16 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D62: Wednesday, February 28, 2018
+**Progress:** Went from 58% complete to 64% complete in Colt Steele's Web Developer Bootcamp course on Udemy! Also, held a two-hour coding workshop for struggling web students, at Academy of Art University. There were lots of CodePens, but I don't save them :P ... Also also, I updated my Behance link on [my personal website](http://www.joeweaver.me).
+
+**Thoughts:** I learned some things I already knew, but it was great to have a deeper level understanding of things, and Colt's way of going over complex ideas is comforting and reassuring, and this was a good backfill for the skills I already have, and an introduction to skills I don't yet have a full grasp on, so it was totally worthwhile! :) Also, learned about and signed up for [Cloud9](c9.io) and that seems like a totally great tool!
+
+**Links to work:**
+None today, Zurg!
+
 ## R1D61: Tuesday, February 27, 2018
-**Progress:** Many changes and updates to GameList prototype.
+**Progress:** Many changes and updates to GameList prototype. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
 
 **Thoughts:** Fixed the Sass mixin for my color blocks, fixed drag-and-drop ghost appearance, and kinda fixed the pencil/editing behavior for the game names. I gotta fix the tags appearance somehow too, and realign a loooooot of stuff, and figure out exactly which order I wat to display content in... but it's reallllly nice to finally have my `.color-bar` idea on the left finalllly working, with the drag-and-drop, the color selector, and I even added a favorites star! :D
 
