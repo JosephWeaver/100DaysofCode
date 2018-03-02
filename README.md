@@ -1,13 +1,21 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D63: Thursday, March 1, 2018
+**Progress:** Brought the GameList prototype to a pretty workable state in terms of color choices, drag-n-drop, hoverability, editability, etc.
+
+**Thoughts:** Had some internet issues. Ugh. Getting gigabit fiber tomorrow though! 🙌🏼🙌🏼🙌🏼🙌🏼🙌🏼
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG) (*Yay!* 🎉 🎉 🎉 )
+
 ## R1D62: Wednesday, February 28, 2018
 **Progress:** Went from 58% complete to 64% complete in Colt Steele's Web Developer Bootcamp course on Udemy! Also, held a two-hour coding workshop for struggling web students, at Academy of Art University. There were lots of CodePens, but I don't save them :P ... Also also, I updated my Behance link on [my personal website](http://www.joeweaver.me). Also, many more changes and updates to GameList prototype. It's starting to look pretty finished now!
 
 **Thoughts:** I learned some things I already knew, but it was great to have a deeper level understanding of things, and Colt's way of going over complex ideas is comforting and reassuring, and this was a good backfill for the skills I already have, and an introduction to skills I don't yet have a full grasp on, so it was totally worthwhile! :) Also, learned about and signed up for [Cloud9](c9.io) and that seems like a totally great tool! Super easy to set up and get started using! What's really frustrating though, is that I also tried Amazon AWS Cloud 9... and that is a ***FAR CRY*** more complicated and annoying to set up... argh. Hate that.
 
 **Links to work:**
-~~None today, Zurg!~~ [https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG) (*Yay!* 🎉 🎉 🎉 )
+~~None today, Zurg!~~ [https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG)
 
 ## R1D61: Tuesday, February 27, 2018
 **Progress:** Many changes and updates to GameList prototype. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
