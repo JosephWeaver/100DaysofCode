@@ -1,13 +1,20 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D64: Thursday, March 2, 2018
+**Progress:** Read a ton of stuff on [exploringjs.com](exploringjs.com). Probably about 2 hours worth.
+
+**Thoughts:** Gigabit fiber didn't work out. Lmao, Sonic trying to play with the big boys. I'm calling Comcast tomorrow, and hopefully THEIR gigabit fiber works out.
+
+**Links to work:** None for today!
+
 ## R1D63: Thursday, March 1, 2018
 **Progress:** Brought the GameList prototype to a pretty workable state in terms of color choices, drag-n-drop, hoverability, editability, etc.
 
 **Thoughts:** Had some internet issues. Ugh. Getting gigabit fiber tomorrow though! 🙌🏼🙌🏼🙌🏼🙌🏼🙌🏼
 
 **Links to work:**
-[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG) (*Yay!* 🎉 🎉 🎉 )
+[https://codepen.io/JoeWeaver/pen/MQBJbG](https://codepen.io/JoeWeaver/pen/MQBJbG) (*Yay!* 🎉🎉🎉)
 
 ## R1D62: Wednesday, February 28, 2018
 **Progress:** Went from 58% complete to 64% complete in Colt Steele's Web Developer Bootcamp course on Udemy! Also, held a two-hour coding workshop for struggling web students, at Academy of Art University. There were lots of CodePens, but I don't save them :P ... Also also, I updated my Behance link on [my personal website](http://www.joeweaver.me). Also, many more changes and updates to GameList prototype. It's starting to look pretty finished now!
