@@ -6,7 +6,7 @@
 
 **Thoughts:** Gigabit fiber didn't work out. Lmao, Sonic trying to play with the big boys. I'm calling Comcast tomorrow, and hopefully THEIR gigabit fiber works out.
 
-**Links to work:** None for today!
+**Links to work:** None for today =P
 
 ## R1D63: Thursday, March 1, 2018
 **Progress:** Brought the GameList prototype to a pretty workable state in terms of color choices, drag-n-drop, hoverability, editability, etc.
