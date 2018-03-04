@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D65: Saturday, March 3, 2018
+**Progress:** Did a bunch of spreadsheet programming. Yay, I know. Yay. But sometimes it's harder than the other kinds of programming I do. And I know people appreciate it more, so I give myself a pass there. Probably did about four hours worth today. :P
+
+**Links to work:** None for today =P
+
 ## R1D64: Friday, March 2, 2018
 **Progress:** Read a ton of stuff on [exploringjs.com](exploringjs.com). Probably about 2 hours worth.
 
