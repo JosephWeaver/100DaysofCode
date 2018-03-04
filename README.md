@@ -1,7 +1,7 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
-## R1D64: Thursday, March 2, 2018
+## R1D64: Friday, March 2, 2018
 **Progress:** Read a ton of stuff on [exploringjs.com](exploringjs.com). Probably about 2 hours worth.
 
 **Thoughts:** Gigabit fiber didn't work out. Lmao, Sonic trying to play with the big boys. I'm calling Comcast tomorrow, and hopefully THEIR gigabit fiber works out.
