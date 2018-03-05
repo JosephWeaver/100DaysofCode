@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D65: Sunday, March 4, 2018
+**Progress:** Today was a day to March Forth!... It's a very funny joke. Today I started on an Accounts Prototype to go along with my GameList prototype, it's all part of the same project. It's pretty rudimentary so far; I'm working in Pug/Sass/Babel as opposed to my normal HTML/SCSS/JS stack, so that's nice to be expanding my horizons.
+
+**Thoughts:** Transitioned back into regular coding after a few days of just working in Google Sheets... man that was exhausting! Lol, certainly not my forte. But I make some really pretty spreadsheets, no lie. I promise you. Anyway, I'm stoked to be getting things done on this project. Very, very excited to have it done. Hopefully before the end of the year I'd like to release an amalgamation of all these prototypes I'm making, as an alpha version of the site. 🤞🏼
+
+**Links to work:** [https://codepen.io/JoeWeaver/pen/LQozao](https://codepen.io/JoeWeaver/pen/LQozao)
+
 ## R1D65: Saturday, March 3, 2018
 **Progress:** Did a bunch of spreadsheet programming. Yay, I know. Yay. But sometimes it's harder than the other kinds of programming I do. And I know people appreciate it more, so I give myself a pass there. Probably did about four hours worth today. :P
 
