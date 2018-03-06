@@ -1,6 +1,14 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D66: Monday, March 5, 2018
+**Progress:** Continued on the Accounts prototype from my project. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
+
+**Thoughts:** Also fixed a TON of spreadsheet problems, noob-proofed it, and made it so we could turn on and off certain statistics to view others in isolation. 💪🏼💪🏼💪🏼 Doing some heaaavy lifting! 💯
+
+**Links to work:**
+[https://codepen.io/JoeWeaver/pen/LQozao](https://codepen.io/JoeWeaver/pen/LQozao)
+
 ## R1D65: Sunday, March 4, 2018
 **Progress:** Today was a day to March Forth!... It's a very funny joke. Today I started on an Accounts prototype to go along with my GameList prototype, it's all part of the same project. It's pretty rudimentary so far; I'm working in Pug/Sass/Babel as opposed to my normal HTML/SCSS/JS stack, so that's nice to be expanding my horizons.
 
