@@ -8,6 +8,7 @@
 
 **Links to work:**
 [https://codepen.io/JoeWeaver/pen/LQozao](https://codepen.io/JoeWeaver/pen/LQozao)
+[https://twitter.com/JoeWeaverDev/status/970820092752683009](https://twitter.com/JoeWeaverDev/status/970820092752683009)
 
 ## R1D65: Sunday, March 4, 2018
 **Progress:** Today was a day to March Forth!... It's a very funny joke. Today I started on an Accounts prototype to go along with my GameList prototype, it's all part of the same project. It's pretty rudimentary so far; I'm working in Pug/Sass/Babel as opposed to my normal HTML/SCSS/JS stack, so that's nice to be expanding my horizons.
