@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D67: Tuesday, March 6, 2018
+**Progress:** Live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
+
+**Thoughts:** Another 24+ hour gap in my GitHub contributions 😭 Streak broken! Oh well.
+**POSITIVE Thoughts:** Hey, I'm 2/3 of the way through 100 Days of Code! This calls for celebration! (translation: This calls for 33 more days of coding 😜)
+
 ## R1D66: Monday, March 5, 2018
 **Progress:** Continued on the Accounts prototype from my project. Also, live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
 
