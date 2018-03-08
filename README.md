@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D68: Wednesday, March 7, 2018
+**Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
+
+**Thoughts:** Very light day otherwise. Very nice.
+
 ## R1D67: Tuesday, March 6, 2018
 **Progress:** Live-coded for 3 hours in front of one of my classes at Academy of Art University. There were lots of CodePens, but I don't save them :P
 
