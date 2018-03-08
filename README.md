@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D69: Thursday, March 8, 2018
+**Progress:** Graded a bunch of web development homework for two of my classes at Academy of Art University. That's about all the code I can stand to look at today. My brain is glazing over.
+
+**Thoughts:** I read Ready Player One for the first time starting last night and ending this morning. It was so great I could barely put it down! Now I know I'm a nerd. lol
+
 ## R1D68: Wednesday, March 7, 2018
 **Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
 
