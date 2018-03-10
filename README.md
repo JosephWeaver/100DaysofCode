@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D71: Saturday, March 10, 2018
+**Progress:** Graded coding assignments for about five hours. Ugh! 😭😂
+
+**Thoughts:** My brain is... hurting, lol. No links for today.
+
 ## R1D70: Friday, March 9, 2018
 **Progress:** Started on my novel. By coding it!
 
