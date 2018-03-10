@@ -2,16 +2,20 @@
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
 ## R1D71: Saturday, March 10, 2018
-**Progress:** Graded coding assignments for about five hours. Ugh! 😭😂
+**Progress:** Graded coding assignments for about five hours. Ugh! 😭😂 Also, updated my website to remove a few links.
 
-**Thoughts:** My brain is... hurting, lol. No links for today.
+**Thoughts:** My brain is... hurting, lol.
+
+**Link to work:**
+[http://www.joeweaver.me](http://www.joeweaver.me)
 
 ## R1D70: Friday, March 9, 2018
 **Progress:** Started on my novel. By coding it!
 
 **Thoughts:** This is inspired by one of my students' projects. She was creating an Oregon Trail clone in HTML/CSS/JavaScript and I realized that I'd be much more likely to begin to write (another habit I desperately want to get into) if I attached it with a habit I already have!
 
-**Link to work:** Here's the repo: [https://github.com/JosephWeaver/musical-goggles](https://github.com/JosephWeaver/musical-goggles) (I chose the default GitHub suggestion as the repository name, since it doesn't really matter. lol)
+**Link to work:**
+Here's the repo: [https://github.com/JosephWeaver/musical-goggles](https://github.com/JosephWeaver/musical-goggles) (I chose the default GitHub suggestion as the repository name, since it doesn't really matter. lol)
 
 ## R1D69: Thursday, March 8, 2018
 **Progress:** Graded a bunch of web development homework for two of my classes at Academy of Art University. That's about all the code I can stand to look at today. My brain is glazing over.
