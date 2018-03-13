@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D73: Monday, March 12, 2018
+**Progress:** Grading more coding assignments; also, live-coded for three hours in front of one of my classes at Academy of Art University.
+
 ## R1D72: Sunday, March 11, 2018
 **Progress:** Graded coding assignments for another four hours.
 
