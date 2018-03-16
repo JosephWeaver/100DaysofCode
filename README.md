@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D77: Friday, March 16, 2018
+**Progress:** Coded part of a LAN party announcement for my gaming clan.
+
+**Link to work:**
+None yet ;) I'll retroactively put it here when I finish, though! haha
+
 ## R1D76: Thursday, March 15, 2018
 **Progress:** Coded part of a LAN party announcement for my gaming clan, as well as initializing a new repo on GitHub for the website I'd been building for it.
 
