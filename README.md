@@ -1,8 +1,19 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D78: Saturday, March 17, 2018
+**Progress:**
+-Coded more of a LAN party announcement for my gaming clan.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D77: Friday, March 16, 2018
-**Progress:** Coded part of a LAN party announcement for my gaming clan.
+**Progress:**
+-Coded part of a LAN party announcement for my gaming clan.
+-Fixed a dependency on a buggy Compass CSS3 library in the site's SCSS.
+-Updated the Band of Maniacal Brothers website to WordPress 4.9.4.
+-Updated versions of Admin Menu Editor, Advanced Custom Fields, Contact Form 7, Custom Post Type UI, Featured Video Plus, Feed Them Social, Simple Share Buttons Adder, Velvet Blues Update URLs, WordPress Database Backup, and WP-Paginate plugins.
 
 **Link to work:**
 None yet ;) I'll retroactively put it here when I finish, though! haha
