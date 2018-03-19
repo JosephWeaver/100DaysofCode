@@ -3,7 +3,7 @@
 
 ## R1D79: Sunday, March 18, 2018
 **Progress:**
--Began coding a LAN party announcement mini-site for my gaming clan.
+-Lots of spreadsheet coding for the BoMB LAN party, as well as beginning on the announcement mini-site. Woo.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
