@@ -24,6 +24,7 @@
 
 **Link to work:**
 None yet ;) I'll retroactively put it here when I finish, though! haha
+**Edit:** [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
 
 ## R1D76: Thursday, March 15, 2018
 **Progress:** Coded part of a LAN party announcement for my gaming clan, as well as initializing a new repo on GitHub for the website I'd been building for it.
