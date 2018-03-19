@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D79: Sunday, March 18, 2018
+**Progress:**
+-Began coding a LAN party announcement mini-site for my gaming clan.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D78: Saturday, March 17, 2018
 **Progress:**
 -Coded more of a LAN party announcement for my gaming clan.
