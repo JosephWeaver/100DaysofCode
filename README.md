@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D81: Tuesday, March 20, 2018
+**Progress:**
+Live-coded for three hours in front of one of my classes at Academy of Art University. Also, watched an hour or two of video from The Web Developer Bootcamp course by Colt Steele on Udemy.
+
+## R1D80: Monday, March 19, 2018
+**Progress:**
+Live-coded for three hours in front of one of my classes at Academy of Art University. Also, continued building out my LAN announcement page and registration form, using WordPress and Sass.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D79: Sunday, March 18, 2018
 **Progress:**
 -Lots of spreadsheet coding for the BoMB LAN party, as well as beginning on the announcement mini-site. Woo.
