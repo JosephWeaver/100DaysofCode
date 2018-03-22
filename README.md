@@ -2,8 +2,7 @@
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
 ## R1D82: Wednesday, March 21, 2018
-**Progress:**
-**Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
+**Progress:** Coded more of a LAN party announcement for my gaming clan. Also, live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
 
 **Thoughts:** Very light day otherwise. Very nice.
 
