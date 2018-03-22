@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D82: Wednesday, March 21, 2018
+**Progress:**
+**Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
+
+**Thoughts:** Very light day otherwise. Very nice.
+
 ## R1D81: Tuesday, March 20, 2018
 **Progress:**
 Live-coded for three hours in front of one of my classes at Academy of Art University. Also, watched an hour or two of video from The Web Developer Bootcamp course by Colt Steele on Udemy.
@@ -21,7 +27,7 @@ Live-coded for three hours in front of one of my classes at Academy of Art Unive
 
 ## R1D78: Saturday, March 17, 2018
 **Progress:**
--Coded more of a LAN party announcement for my gaming clan.
+Coded more of a LAN party announcement for my gaming clan.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
