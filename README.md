@@ -1,10 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
-## R1D82: Wednesday, March 21, 2018
-**Progress:** Coded more of a LAN party announcement for my gaming clan. Also, live-coded for hours with students during one of my workshops at Academy of Art University. There were lots of CodePens, but I don't save them :P
+## R1D83: Thursday, March 22, 2018
+**Progress:** Finished coding the LAN party registration page for my gaming clan.
 
-**Thoughts:** Very light day otherwise. Very nice.
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
+## R1D82: Wednesday, March 21, 2018
+**Progress:** Coded more of a LAN party announcement for my gaming clan. Also, live-coded for hours with students during one of my workshops at Academy of Art University.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
 
 ## R1D81: Tuesday, March 20, 2018
 **Progress:**
