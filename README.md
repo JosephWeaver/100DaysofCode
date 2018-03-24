@@ -1,8 +1,14 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D84: Friday, March 23, 2018
+**Progress:** Did a bunch of coding on my gaming clan's website, adding in new affiliates, and creating a new content type and custom form fields, and back-end hooks in the templates so I can update affiliates on the fly instead of digging into code. 👏🏼🙌🏼💯🔥
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com)
+
 ## R1D83: Thursday, March 22, 2018
-**Progress:** Finished coding the LAN party registration page for my gaming clan.
+**Progress:** Coding most of the LAN party registration page for my gaming clan.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
