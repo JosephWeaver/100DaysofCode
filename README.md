@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D87: Monday, March 26, 2018
+**Progress:** Today was productive! I finished the Events custom post type for my gaming clan's website (YES! So frustrating!) 🎉
+Next on my to-do list is to finish the BoMB & Friends Spring LAN 2018 registration form page.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com)
+
 ## R1D86: Sunday, March 25, 2018
 **Progress:** Got the new functions.php uploaded for where I started building out the Events custom post type for my gaming clan's website.
 
@@ -44,7 +51,7 @@ Live-coded for three hours in front of one of my classes at Academy of Art Unive
 
 ## R1D79: Sunday, March 18, 2018
 **Progress:**
--Lots of spreadsheet coding for the BoMB LAN party, as well as beginning on the announcement mini-site. Woo.
+Lots of spreadsheet coding for the BoMB LAN party, as well as beginning on the announcement mini-site. Woo.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
