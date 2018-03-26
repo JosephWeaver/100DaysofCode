@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D86: Sunday, March 25, 2018
+**Progress:** Got the new functions.php uploaded for where I started building out the Events custom post type for my gaming clan's website.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com)
+
 ## R1D85: Saturday, March 24, 2018
 **Progress:** Did a bunch more coding on my gaming clan's website, and hopefully will finally finish up the LAN party registration, so I can apply for more sponsorships! 💯🔥
 
