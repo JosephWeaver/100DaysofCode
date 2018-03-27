@@ -1,29 +1,35 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D88: Tuesday, March 27, 2018
+**Progress:** Finished the BoMB & Friends Spring LAN 2018 registration form page and payment portal. YUS.
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D87: Monday, March 26, 2018
 **Progress:** Today was productive! I finished the Events custom post type for my gaming clan's website (YES! So frustrating!) 🎉 Next on my to-do list is to finish the BoMB & Friends Spring LAN 2018 registration form page.
 
 **Link to work:**
-[http://www.bombhq.com/lan](http://www.bombhq.com)
+[http://www.bombhq.com](http://www.bombhq.com)
 
 ## R1D86: Sunday, March 25, 2018
 **Progress:** Got the new functions.php uploaded for where I started building out the Events custom post type for my gaming clan's website.
 
 **Link to work:**
-[http://www.bombhq.com/lan](http://www.bombhq.com)
+[http://www.bombhq.com](http://www.bombhq.com)
 
 ## R1D85: Saturday, March 24, 2018
 **Progress:** Did a bunch more coding on my gaming clan's website, and hopefully will finally finish up the LAN party registration, so I can apply for more sponsorships! 💯🔥
 
 **Link to work:**
-[http://www.bombhq.com/lan](http://www.bombhq.com)
+[http://www.bombhq.com](http://www.bombhq.com)
 
 ## R1D84: Friday, March 23, 2018
 **Progress:** Did a bunch of coding on my gaming clan's website, adding in new affiliates, and creating a new content type and custom form fields, and back-end hooks in the templates so I can update affiliates on the fly instead of digging into code. 👏🏼🙌🏼💯🔥
 
 **Link to work:**
-[http://www.bombhq.com/lan](http://www.bombhq.com)
+[http://www.bombhq.com](http://www.bombhq.com)
 
 ## R1D83: Thursday, March 22, 2018
 **Progress:** Coding most of the LAN party registration page for my gaming clan.
