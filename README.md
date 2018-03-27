@@ -2,8 +2,7 @@
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
 ## R1D87: Monday, March 26, 2018
-**Progress:** Today was productive! I finished the Events custom post type for my gaming clan's website (YES! So frustrating!) 🎉
-Next on my to-do list is to finish the BoMB & Friends Spring LAN 2018 registration form page.
+**Progress:** Today was productive! I finished the Events custom post type for my gaming clan's website (YES! So frustrating!) 🎉 Next on my to-do list is to finish the BoMB & Friends Spring LAN 2018 registration form page.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com)
