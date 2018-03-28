@@ -2,7 +2,7 @@
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
 ## R1D88: Tuesday, March 27, 2018
-**Progress:** Finished the BoMB & Friends Spring LAN 2018 registration form page and payment portal. YUS.
+**Progress:** Alllmost finished the BoMB & Friends Spring LAN 2018 registration form page and payment portal.
 
 **Link to work:**
 [http://www.bombhq.com/lan](http://www.bombhq.com/lan)
