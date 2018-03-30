@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D91: Friday, March 30, 2018
+**Progress:** Created the BoMB & Friends Spring LAN 2018 Results & Winners sheet in the spreadsheet. In involved a lot of development AND design, so that's a nice plus :)
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D90: Thursday, March 29, 2018
 **Progress:** Friggin' finally finished the BoMB & Friends Spring LAN 2018 registration form page and payment portal. Also did a lot more work on organizing the scoring spreadsheet for the LAN. Also, finalized the T-shirt design for the event and sent out an order to CustomInk.com! Not really coding-related, but I'm excited :)
 
