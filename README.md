@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D90: Thursday, March 29, 2018
+**Progress:** Friggin' finally finished the BoMB & Friends Spring LAN 2018 registration form page and payment portal. Also did a lot more work on organizing the scoring spreadsheet for the LAN. Also, finalized the T-shirt design for the event and sent out an order to CustomInk.com! Not really coding-related, but I'm excited :)
+
+**Link to work:**
+[http://www.bombhq.com/lan](http://www.bombhq.com/lan)
+
 ## R1D89: Wednesday, March 28, 2018
 **Progress:** Did a lot more work on the BoMB & Friends Spring LAN 2018 registration form page and payment portal. Also, I reduced the amount of apps I use on my phone to less than 25. That's INSANE for me, seeing as I use apps for everything from to-do lists, banking, fitness, talking to my students, entertainment, communication, peaceful clarity, and just about everything else. I was ruthless. I deleted a lot of stuff I didn't want to delete. But in the end, I've noticed that I spend a lot less time on my phone! And that's the whole point, so it's worth it! :D
 
