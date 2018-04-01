@@ -1,8 +1,14 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D93: Sunday, April 1, 2018
+**Progress:** New day, new month, same project! :P I went back on trying to refactor, and just decided to add in things a little more easily (read: repetitively) in my code since I'm lazy and this project isn't meant to scale very large anyway, and even if it did, this part wouldn't really be the scaling part anyway, and it's more of a convenience to me, myself, and I, than it is to any USER... so... the user experience suffers zero, and I just so happen to save myself time! -- or money, if you would otherwise count me caving to buying a PRO version of some plugin I have, as a waste of money, just to be able to do one extra little thing... is that worth $50, to only be able to do it on one site? I'd say no. Not only no, but heck no techno! So here I am, un...re...factoring...? re-re-factoring, to undo a previous refactor? Ha, I don't know what it's called, but I'm sure people have called it something before, and I'm sure mine's not the worst name somebody's come up with. Well, anyway, now I'm rambling, about something of literally zero consequence. Which is weird. And it's past 1am and I'm up real early ~~tomorrow~~ TODAY so byeeeeeee
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you STILL can't see! ... and now you'll NEVER SEE! MUAHAHAHAHAHA :P)
+
 ## R1D92: Saturday, March 31, 2018
-**Progress:** Refactored Band of Maniacal Brothers website's functions.php to include CUSTOM custom column replacements for custom post types in WordPress :P I've never said custom thrice in the same sentence unironically before, that felt nice! Haha
+**Progress:** Started refactoring Band of Maniacal Brothers website's functions.php to include CUSTOM custom column replacements for custom post types in WordPress :P I've never said custom thrice in the same sentence unironically before, that felt nice! Haha
 
 **Link to work:**
 [http://www.bombhq.com](http://www.bombhq.com) (admin pages, you can't see! :P)
