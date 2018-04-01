@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D92: Saturday, March 31, 2018
+**Progress:** Refactored Band of Maniacal Brothers website's functions.php to include CUSTOM custom column replacements for custom post types in WordPress :P I've never said custom thrice in the same sentence unironically before, that felt nice! Haha
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you can't see! :P)
+
 ## R1D91: Friday, March 30, 2018
 **Progress:** Created the BoMB & Friends Spring LAN 2018 Results & Winners sheet in the spreadsheet. In involved a lot of development AND design, so that's a nice plus :)
 
