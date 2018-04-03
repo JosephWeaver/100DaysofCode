@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D95: Tuesday, April 3, 2018
+**Progress:**
+Live-coded for three hours in front of one of my classes at Academy of Art University. Also, updated the SCSS for my gaming clan's entire website, getting rid of old vendor extensions, and updating our social page feed plugin's style.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R1D94: Monday, April 2, 2018
 **Progress:**
 Live-coded for three hours in front of one of my classes at Academy of Art University.
@@ -11,7 +18,7 @@ Live-coded for three hours in front of one of my classes at Academy of Art Unive
 **Thoughts:** Okay, so, April Fools, I guess, because even after writing the above, I stayed up until 3:30 a.m. now (eek!) adding admin columns for Members and Affiliates in functions.php. I'm incorrigible. 😭
 
 **Link to work:**
-[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you STILL can't see! ... and now you'll NEVER SEE! MUAHAHAHAHAHAAAAA :P)
+[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you STILL can't see! ... and now you'll NEVER SEE! MUAHAHAHAHAHAAAA :P)
 
 ## R1D92: Saturday, March 31, 2018
 **Progress:** Started refactoring Band of Maniacal Brothers website's functions.php to include CUSTOM custom column replacements for custom post types in WordPress :P I've never said custom thrice in the same sentence unironically before, that felt nice! Haha
