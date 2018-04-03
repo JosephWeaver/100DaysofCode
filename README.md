@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D94: Monday, April 2, 2018
+**Progress:**
+Live-coded for three hours in front of one of my classes at Academy of Art University.
+
 ## R1D93: Sunday, April 1, 2018
 **Progress:** New day, new month, same project! :P I went back on trying to refactor, and just decided to add in things a little more easily (read: repetitively) in my code since I'm lazy and this project isn't meant to scale very large anyway, and even if it did, this part wouldn't really be the scaling part anyway, and it's more of a convenience to me, myself, and I, than it is to any USER... so... the user experience suffers zero, and I just so happen to save myself time! -- or money, if you would otherwise count me caving to buying a PRO version of some plugin I have, as a waste of money, just to be able to do one extra little thing... is that worth $50, to only be able to do it on one site? I'd say no. Not only no, but heck no techno! So here I am, un...re...factoring...? re-re-factoring, to undo a previous refactor? Ha, I don't know what it's called, but I'm sure people have called it something before, and I'm sure mine's not the worst name somebody's come up with. Well, anyway, now I'm rambling, about something of literally zero consequence. Which is weird. And it's past 1 a.m. and I'm up real early ~~tomorrow~~ TODAY for an Easter service! so byeeeeeee
 
