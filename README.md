@@ -7,7 +7,7 @@
 **Thoughts:** Okay, so, April Fools, I guess, because even after writing the above, I stayed up until 3:30 a.m. now (eek!) adding admin columns for Members and Affiliates in functions.php. I'm incorrigible. 😭
 
 **Link to work:**
-[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you STILL can't see! ... and now you'll NEVER SEE! MUAHAHAHAHAHAAAA :P)
+[http://www.bombhq.com](http://www.bombhq.com) (admin pages, you STILL can't see! ... and now you'll NEVER SEE! MUAHAHAHAHAHAAAAA :P)
 
 ## R1D92: Saturday, March 31, 2018
 **Progress:** Started refactoring Band of Maniacal Brothers website's functions.php to include CUSTOM custom column replacements for custom post types in WordPress :P I've never said custom thrice in the same sentence unironically before, that felt nice! Haha
