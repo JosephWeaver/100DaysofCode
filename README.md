@@ -1,9 +1,18 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D97: Thursday, April 5, 2018
+**Progress:**
+Added players to divisions on gaming clan's website.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
+
 ## R1D96: Wednesday, April 4, 2018
 **Progress:**
 Also, updated the SCSS for my gaming clan's entire website, troubleshot the social plugin, and unregistered unnecessary post types. Also, updated plugins by removing old ones.
+
 **Link to work:**
 [http://www.bombhq.com](http://www.bombhq.com)
 
