@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D96: Wednesday, April 4, 2018
+**Progress:**
+Also, updated the SCSS for my gaming clan's entire website, troubleshot the social plugin, and unregistered unnecessary post types.
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R1D95: Tuesday, April 3, 2018
 **Progress:**
 Live-coded for three hours in front of one of my classes at Academy of Art University. Also, updated the SCSS for my gaming clan's entire website, getting rid of old vendor extensions, and updating our social page feed plugin's style.
