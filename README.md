@@ -3,7 +3,7 @@
 
 ## R1D96: Wednesday, April 4, 2018
 **Progress:**
-Also, updated the SCSS for my gaming clan's entire website, troubleshot the social plugin, and unregistered unnecessary post types.
+Also, updated the SCSS for my gaming clan's entire website, troubleshot the social plugin, and unregistered unnecessary post types. Also, updated plugins by removing old ones.
 **Link to work:**
 [http://www.bombhq.com](http://www.bombhq.com)
 
