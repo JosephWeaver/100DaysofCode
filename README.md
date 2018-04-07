@@ -1,13 +1,20 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
-## R1D97: Thursday, April 5, 2018
+## R1D98: Friday, April 6, 2018
 **Progress:**
-Added players to divisions on gaming clan's website.
+Worked like a madman, finishing integrating featured images successfully and satisfactorily. Surprisingly.
 
 **Link to work:**
 [http://www.bombhq.com](http://www.bombhq.com)
 
+## R1D97: Thursday, April 5, 2018
+**Progress:**
+Added players to divisions on gaming clan's website. Also, had to fix our social page feed plugin (which I JUST already fixed) since it completely stopped working due to new Facebook policy changes (so gay) by completely removing it and putting a whole other interface in its place (which looks nice, but doesn't have a Facebook feed. Boo).
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+[http://www.bombhq.com/bomb-and-friends](http://www.bombhq.com/bomb-and-friends)
 
 ## R1D96: Wednesday, April 4, 2018
 **Progress:**
