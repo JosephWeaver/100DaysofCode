@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D98: Saturday, April 7, 2018
+**Progress:**
+Updated custom admin columns for Division custom post type, started creating custom Divisions page templates, uploaded pictures and images for main clan members, and started creating custom Members page templates.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R1D98: Friday, April 6, 2018
 **Progress:**
 Worked like a madman, finishing integrating featured images successfully and satisfactorily. Surprisingly.
