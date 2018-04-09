@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D1: Monday, April 9, 2018
+**Progress:**
+Created a new custom post type for our channels, uploaded all the new ones, retrofitted an old space to house the new information, and added custom hooks for admin panel access. Also added links to current members' pages from the login box area, and built some more of the division pages.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R1D100: Sunday, April 8, 2018
 **Progress:**
 Did more work on finishing the division pages for my gaming clan's site. Moved and renamed some files and made sure it didn't break anything. Cleaned up SCSS even more.
