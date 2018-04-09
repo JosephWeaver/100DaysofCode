@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R1D100: Sunday, April 8, 2018
+**Progress:**
+Did more work on finishing the division pages for my gaming clan's site. Moved and renamed some files and made sure it didn't break anything. Cleaned up SCSS even more.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R1D99: Saturday, April 7, 2018
 **Progress:**
 Updated custom admin columns for Division custom post type, started creating custom Divisions page templates, uploaded pictures and images for main clan members, and started creating custom Members page templates. Also, watched two hours of Colt Steele's Web Developer Bootcamp.
