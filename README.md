@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D2: Tuesday, April 10, 2018
+**Progress:**
+Built more of the divisions page for my gaming clan's website, painstakingly graded 50+ coding assignments for midterms, and live-coded for three hours in front of one of my classes at Academy of Art University. P.S. Ayyyy, R2D2! Sweet. 👏🏼👏🏼👏🏼
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R2D1: Monday, April 9, 2018
 **Progress:**
 Created a new custom post type for our channels, uploaded all the new ones, retrofitted an old space to house the new information, and added custom hooks for admin panel access. Also added links to current members' pages from the login box area, and built some more of the division pages. Also, live-coded for three hours in front of one of my classes at Academy of Art University.
