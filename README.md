@@ -1,9 +1,15 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D3: Wednesday, April 11, 2018
+**Progress:** Coded more of the divisions section for my gaming clan. Also, live-coded for hours with students during one of my workshops at Academy of Art University.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R2D2: Tuesday, April 10, 2018
 **Progress:**
-Built more of the divisions page for my gaming clan's website, painstakingly graded 50+ coding assignments for midterms, and live-coded for three hours in front of one of my classes at Academy of Art University. P.S. Ayyyy, R2D2! Sweet. 👏🏼👏🏼👏🏼
+Built more of the divisions section for my gaming clan's website, painstakingly graded 50+ coding assignments for midterms, and live-coded for three hours in front of one of my classes at Academy of Art University. P.S. Ayyyy, R2D2! Sweet. 👏🏼👏🏼👏🏼
 
 **Link to work:**
 [http://www.bombhq.com](http://www.bombhq.com)
