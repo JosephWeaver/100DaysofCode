@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D4: Thursday, April 12, 2018
+**Progress:** Coded more of the divisions section for my gaming clan. Added two new affiliates (Geeks + Gamers and Left Foot Media) to our website! Huzzah!
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R2D3: Wednesday, April 11, 2018
 **Progress:** Coded more of the divisions section for my gaming clan. Also, live-coded for hours with students during one of my workshops at Academy of Art University.
 
