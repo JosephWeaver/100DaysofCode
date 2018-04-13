@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D5: Friday, April 13, 2018
+**Progress:** Coded more of the divisions section for my gaming clan. Reworked the custom post types to include featured images / post thumbnails instead of custom image fields.
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R2D4: Thursday, April 12, 2018
 **Progress:** Coded more of the divisions section for my gaming clan. Added two new affiliates (Geeks + Gamers and Left Foot Media) to our website! Huzzah!
 
