@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D6: Saturday, April 14, 2018
+**Progress:** Added FB event for my gaming clan's event, changed some of the scoring spreadsheet (not reallllly coding, I know, I know... but it's in support of the thing that's driving most of my coding forward these past few weeks, so, it counts to me! haha). Also, updated the SCSS to the LAN event page (which IS real coding!)
+
+**Link to work:**
+[http://www.bombhq.com](http://www.bombhq.com)
+
 ## R2D5: Friday, April 13, 2018
 **Progress:** Coded more of the divisions section for my gaming clan. Reworked the custom post types to include featured images / post thumbnails instead of custom image fields. Updated the entire LAN party page system so that instead of using 4 different custom pages and page templates for Landing Page, Registration, Payment, and Confirmation, I'm now only using one page, and even that is only because it's a re-usable redirect, from [http://www.bombhq.com/lan](http://www.bombhq.com/lan) to [http://www.bombhq.com/event/bomb-and-friends-spring-lan-2018](http://www.bombhq.com/event/bomb-and-friends-spring-lan-2018), and the other 3 WP pages were switched out for one custom single event page, which has `$_GET` parameter hooks to only show certain parts of the page. I also added in an "Add to calendar" widget which will show up once people sign up for the event. I also made a link so that people who have already signed up, can automatically skip to the last page. I also added an Events page. I also added an Events module. I also added a link to "BoMB Events" in the main menu.
 
