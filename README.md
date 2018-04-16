@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D7: Sunday, April 15, 2018
+**Progress:** None! I finally took a day off, 107 days in. Ahhhhh ^____^
+
 ## R2D6: Saturday, April 14, 2018
 **Progress:** Added FB event for my gaming clan's event, changed some of the scoring spreadsheet (not reallllly coding, I know, I know... but it's in support of the thing that's driving most of my coding forward these past few weeks, so, it counts to me! haha). Also, updated the SCSS to the LAN event page (which IS real coding!)
 
