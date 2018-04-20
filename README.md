@@ -1,8 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D11: Thursday, April 19, 2018
+**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Updated the folder structure of some social images on my gaming clan's website. Consulted on a sprawling web project with an online business connection. Created a Twitter handle overlay for videos crafted by a new partner of mine, which contributes to an upcoming lateral move of mine into gaming culture, and it will involve a lot of coding. Also, un-coding-related, partially, but I designed a markdown document that served as my first article written for Geeks & Gamers.
+
 ## R2D10: Wednesday, April 18, 2018
-**Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University.
+**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Live-coded for hours with students during one of my workshops at Academy of Art University.
 
 ## R2D9: Tuesday, April 17, 2018
 **Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
