@@ -1,8 +1,14 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D13: Saturday, April 21, 2018
+**Progress:** Uploaded all existing plugins and themes into my Geeks + Gamers development repository (over 8,000 files, yeesh!) and I'm stoked to get started developing!
+
+## R2D12: Friday, April 20, 2018
+**Progress:** Created a new repository for Geeks + Gamers and uploaded and configured a WordPress installation to run as a test instance for new features before they hit the live site.
+
 ## R2D11: Thursday, April 19, 2018
-**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Updated the folder structure of some social images on my gaming clan's website. Consulted on a sprawling web project with an online business connection. Created a Twitter handle overlay for videos crafted by a new partner of mine, which contributes to an upcoming lateral move of mine into gaming culture, and it will involve a lot of coding. Also, un-coding-related, partially, but I designed a markdown document that served as my first article written for Geeks & Gamers.
+**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Updated the folder structure of some social images on my gaming clan's website. Consulted on a sprawling web project with an online business connection. Created a Twitter handle overlay for videos crafted by a new partner of mine, which contributes to an upcoming lateral move of mine into gaming culture, and it will involve a lot of coding. Also, un-coding-related, partially, but I designed a markdown document that served as my first article written for Geeks + Gamers.
 
 ## R2D10: Wednesday, April 18, 2018
 **Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Live-coded for hours with students during one of my workshops at Academy of Art University.
