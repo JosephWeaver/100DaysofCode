@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D14: Sunday, April 22, 2018
+**Progress:** Created a Slack for Geeks + Gamers, created all the channels, was on the phone for about 3 hours with the two other head people. Then I added about 25 tasks to the Trello, added and deleted a few plugins from the WordPress, and wow that all took about 5-6 hours. Wheeeeeeeeee
+
 ## R2D13: Saturday, April 21, 2018
 **Progress:** Uploaded all existing plugins and themes into my Geeks + Gamers development repository (over 8,000 files, yeesh!) and I'm stoked to get started developing!
 
