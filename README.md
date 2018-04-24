@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D16: Tuesday, April 24, 2018
+**Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
+
 ## R2D15: Monday, April 23, 2018
 **Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
 
