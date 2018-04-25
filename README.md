@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D17: Wednesday, April 25, 2018
+**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Live-coded for hours with students during one of my workshops at Academy of Art University.
+
 ## R2D16: Tuesday, April 24, 2018
 **Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
 
