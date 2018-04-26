@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D18: Thursday, April 26, 2018
+**Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Updated the logo for [Geeks and Gamers](http://www.geeksandgamers.com).
+
+**Link to work:**
+[http://www.geeksandgamers.com](http://www.geeksandgamers.com)
+
 ## R2D17: Wednesday, April 25, 2018
 **Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Live-coded for hours with students during one of my workshops at Academy of Art University.
 
