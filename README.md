@@ -1,6 +1,15 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D22: Monday, April 30, 2018
+**Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
+
+## R2D21: Sunday, April 29, 2018
+**Progress:** Did a lot of work on Geeks + Gamers. Also, graded some students' homework.
+
+## R2D19/20: Friday/Saturday, April 27-28, 2018
+**Progress:** None. But the fruition of all the work I have been doing since early March has finally come. And now I get to enjoy it!
+
 ## R2D18: Thursday, April 26, 2018
 **Progress:** Sat on a final review committee for a Web & New Media student at Academy of Art University. Updated the logo for [Geeks and Gamers](http://www.geeksandgamers.com).
 
