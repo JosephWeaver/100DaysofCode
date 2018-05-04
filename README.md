@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D25: Wednesday, May 3, 2018
+**Progress:** Did loooots of spreadsheet coding calclations to get some money back from landlord. Successful! 🤴
+
 ## R2D24: Wednesday, May 2, 2018
 **Progress:** Live-coded for hours with students during one of my workshops at Academy of Art University.
 
