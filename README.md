@@ -1,7 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
-## R2D25: Wednesday, May 3, 2018
+## R2D26: Friday, May 4, 2018
+**Progress:** Made an Ahsoka Tano shirt for Geeks + Gamers, as well as launching the fundraiser campaign attached to it, for Star Wars Day (May the 4th be with you!)
+
+## R2D25: Thursday, May 3, 2018
 **Progress:** Did loooots of spreadsheet coding calclations to get some money back from landlord. Successful! 🤴
 
 ## R2D24: Wednesday, May 2, 2018
