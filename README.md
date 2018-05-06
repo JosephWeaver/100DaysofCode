@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D27: Saturday, May 5, 2018
+**Progress:** Developed a lot of content for Geeks + Gamers, ran rampant in Slack and Trello, and was on the phone for about four hours getting things done.
+
 ## R2D26: Friday, May 4, 2018
 **Progress:** Made an Ahsoka Tano shirt for Geeks + Gamers, as well as launching the fundraiser campaign attached to it, for Star Wars Day (May the 4th be with you!)
 
