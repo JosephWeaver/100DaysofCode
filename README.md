@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## R2D29: Monday, May 7, 2018
+**Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
+
 ## R2D28: Sunday, May 6, 2018
 **Progress:** Created my first auto-hotkey script (.ahk file). Sweet!
 `;f4 and alt f4 switch
