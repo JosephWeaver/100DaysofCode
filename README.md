@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 1: Sunday, July 19, 2020
+**Progress:** It's been a while since I've recorded my coding progress. This will be fun.
+
 ## R2D30: Tuesday, May 8, 2018
 **Progress:** Live-coded for three hours in front of one of my classes at Academy of Art University.
 
