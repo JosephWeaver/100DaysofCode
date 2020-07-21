@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 2: Monday, July 20, 2020
+**Progress:** [Added a dev.to badge](https://github.com/JoeCodesStuff/JoeWeaver.me/commit/127f7d596e21710256ecb62c0a5ad729e0fd64bb) to a future version of my website! Now I just have to put stuff on dev.to! :P
+
 ## Round 3, Day 1: Sunday, July 19, 2020
 **Progress:** It's been a while since I've recorded my coding progress. This will be fun.
 
