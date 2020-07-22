@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 3: Tuesday, July 21, 2020
+**Progress:** Did a few simple challenges on freeCodeCamp. This will probably continue, since I'm trying to get all the certs fCC offers:
+- [Applied Visual Design: Adjust the Width of an Element Using the width Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property)
+- [Applied Visual Design: Adjust the Height of an Element Using the height Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property)
+- [Applied Visual Design: Use the strong Tag to Make Text Bold](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold)
+- [Applied Visual Design: Use the u Tag to Underline Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-u-tag-to-underline-text)
+- [Applied Visual Design: Use the em Tag to Italicize Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-em-tag-to-italicize-text)
+- [Applied Visual Design: Use the s Tag to Strikethrough Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-s-tag-to-strikethrough-text)
+- [Applied Visual Design: Create a Horizontal Line Using the hr Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element)
+- [Applied Visual Design: Adjust the background-color Property of Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text)
+
 ## Round 3, Day 2: Monday, July 20, 2020
 **Progress:** [Added a dev.to badge](https://github.com/JoeCodesStuff/JoeWeaver.me/commit/127f7d596e21710256ecb62c0a5ad729e0fd64bb) to a future version of my website! Now I just have to put stuff on dev.to! :P
 
