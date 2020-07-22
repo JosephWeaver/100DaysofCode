@@ -1,6 +1,38 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 4: Wednesday, July 22, 2020
+**Progress:** Finished the Applied Accessibility Challenges and Responsive Web Design Principles sections on freeCodeCamp.
+- ✅ [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
+- ✅ [Add a Text Alternative to Images for Visually Impaired Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
+- ✅ [Know When Alt Text Should be Left Blank](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank)
+- ✅ [Use Headings to Show Hierarchical Relationships of Content](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
+- ✅ [Jump Straight to the Content Using the main Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+- ✅ [Wrap Content in the article Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+- ✅ [Make Screen Reader Navigation Easier with the header Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark)
+- ✅ [Make Screen Reader Navigation Easier with the nav Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-nav-landmark)
+- ✅ [Make Screen Reader Navigation Easier with the footer Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark)
+- ✅ [Improve Accessibility of Audio Content with the audio Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element)
+- ✅ [Improve Chart Accessibility with the figure Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element)
+- ✅ [Improve Form Field Accessibility with the label Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
+- ✅ [Wrap Radio Buttons in a fieldset Element for Better Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+- ✅ [Add an Accessible Date Picker](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-an-accessible-date-picker)
+- ✅ [Standardize Times with the HTML5 datetime Attribute](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute)
+- ✅ [Make Elements Only Visible to a Screen Reader by Using Custom CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
+- ✅ [Improve Readability with High Contrast Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+- ✅ [Avoid Colorblindness Issues by Using Sufficient Contrast](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast)
+- ✅ [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+- ✅ [Give Links Meaning by Using Descriptive Link Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text)
+- ✅ [Make Links Navigable with HTML Access Keys](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-links-navigable-with-html-access-keys)
+- ✅ [Use tabindex to Add Keyboard Focus to an Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
+- ✅ [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+
+- ✅ [Introduction to the Responsive Web Design Challenges](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/)
+- ✅ [Create a Media Query](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query)
+- ✅ [Make an Image Responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+- ✅ [Use a Retina Image for Higher Resolution Displays](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays)
+- ✅ [Make Typography Responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+
 ## Round 3, Day 3: Tuesday, July 21, 2020
 **Progress:** Did a few simple challenges on freeCodeCamp (Note: I ended up finishing the Applied Visual Design section, since I had some extra time):
 - ✅ [Applied Visual Design: Adjust the Width of an Element Using the width Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property)
