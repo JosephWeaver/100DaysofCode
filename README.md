@@ -2,7 +2,7 @@
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
 ## Round 3, Day 4: Wednesday, July 22, 2020
-**Progress:** Finished the Applied Accessibility Challenges and Responsive Web Design Principles sections on freeCodeCamp.
+**Progress:** Finished the Applied Accessibility Challenges, Responsive Web Design Principles, Flexbox, and CSS Grid sections on freeCodeCamp.
 - ✅ [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
 - ✅ [Add a Text Alternative to Images for Visually Impaired Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
 - ✅ [Know When Alt Text Should be Left Blank](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank)
@@ -32,6 +32,49 @@
 - ✅ [Make an Image Responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
 - ✅ [Use a Retina Image for Higher Resolution Displays](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/use-a-retina-image-for-higher-resolution-displays)
 - ✅ [Make Typography Responsive](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+
+- ✅ [Introduction to the CSS Flexbox Challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
+- ✅ [Use display: flex to Position Two Boxes](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+- ✅ [Add Flex Superpowers to the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed)
+- ✅ [Use the flex-direction Property to Make a Row](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-row)
+- ✅ [Apply the flex-direction Property to Create Rows in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed)
+- ✅ [Use the flex-direction Property to Make a Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-direction-property-to-make-a-column)
+- ✅ [Apply the flex-direction Property to Create a Column in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+- ✅ [Align Elements Using the justify-content Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
+- ✅ [Use the justify-content Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+- ✅ [Align Elements Using the align-items Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
+- ✅ [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
+- ✅ [Use the flex-wrap Property to Wrap a Row or Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
+- ✅ [Use the flex-shrink Property to Shrink Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+- ✅ [Use the flex-grow Property to Expand Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items)
+- ✅ [Use the flex-basis Property to Set the Initial Size of an Item](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+- ✅ [Use the flex Shorthand Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
+- ✅ [Use the order Property to Rearrange Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-order-property-to-rearrange-items)
+- ✅ [Use the align-self Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
+
+- ✅ [Introduction to the CSS Grid Challenges](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+- ✅ [Create Your First CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
+- ✅ [Add Columns with grid-template-columns](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
+- ✅ [Add Rows with grid-template-rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+- ✅ [Use CSS Grid units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+- ✅ [Create a Column Gap Using grid-column-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap)
+- ✅ [Create a Row Gap using grid-row-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
+- ✅ [Add Gaps Faster with grid-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
+- ✅ [Use grid-column to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-column-to-control-spacing)
+- ✅ [Use grid-row to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
+- ✅ [Align an Item Horizontally using justify-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
+- ✅ [Align an Item Vertically using align-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+- ✅ [Align All Items Horizontally using justify-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+- ✅ [Align All Items Vertically using align-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
+- ✅ [Divide the Grid Into an Area Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
+- ✅ [Place Items in Grid Areas Using the grid-area Property](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property)
+- ✅ [Use grid-area Without Creating an Areas Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
+- ✅ [Reduce Repetition Using the repeat Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function)
+- ✅ [Limit Item Size Using the minmax Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function)
+- ✅ [Create Flexible Layouts Using auto-fill](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
+- ✅ [Create Flexible Layouts Using auto-fit](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit)
+- ✅ [Use Media Queries to Create Responsive Layouts](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
+- ✅ [Create Grids within Grids](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids)
 
 ## Round 3, Day 3: Tuesday, July 21, 2020
 **Progress:** Did a few simple challenges on freeCodeCamp (Note: I ended up finishing the Applied Visual Design section, since I had some extra time):
