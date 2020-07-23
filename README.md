@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 4, Part 2: Still Wednesday, July 22, 2020
+- ✅ Completed [Responsive Web Design Projects - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) responsive web design project on freeCodeCamp with my [Laser Moon Laser Tag Exit Survey](https://codepen.io/JoeWeaver/pen/RwrvvdE). :P
+
 ## Round 3, Day 4: Wednesday, July 22, 2020
 **Progress:** Finished the Applied Accessibility Challenges, Responsive Web Design Principles, Flexbox, and CSS Grid sections on freeCodeCamp.
 - ✅ [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
