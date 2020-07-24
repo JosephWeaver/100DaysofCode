@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 5: Thursday, July 23, 2020
+**Progress:**
+- 🚧 Completed part of the [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) responsive web design project on freeCodeCamp.  Will finish the rest tomorrow.
+
 ## Round 3, Day 4, Part 2: Still Wednesday, July 22, 2020
 - ✅ Completed [Responsive Web Design Projects - Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) responsive web design project on freeCodeCamp with my [Laser Moon Laser Tag Exit Survey](https://codepen.io/JoeWeaver/pen/RwrvvdE). :P
 
