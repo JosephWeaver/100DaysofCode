@@ -161,12 +161,12 @@ This freeCodeCamp coding exercise binge will probably continue, since I'm trying
 
 ## R2D28: Sunday, May 6, 2018
 **Progress:** Created my first auto-hotkey script (.ahk file). Sweet!
-`;f4 and alt f4 switch
-<!F4::
-sleep 30
-send {F4}
-return
-F4::!F4`
+    <!-- `;f4 and alt f4 switch
+    <!F4::
+    sleep 30
+    send {F4}
+    return
+    F4::!F4` -->
 
 ## R2D27: Saturday, May 5, 2018
 **Progress:** Developed a lot of content for Geeks + Gamers, ran rampant in Slack and Trello, and was on the phone for about four hours getting things done.
