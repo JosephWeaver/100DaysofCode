@@ -1,6 +1,19 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 8: Sunday, July 26, 2020
+**Progress:** Finished the **Sass** section in the **Front End Libraries Certification**.
+- ✅ [Introduction to the Sass Challenges](https://www.freecodecamp.org/learn/front-end-libraries/sass/)
+- ✅ [Store Data with Sass Variables](https://www.freecodecamp.org/learn/front-end-libraries/sass/store-data-with-sass-variables)
+- ✅ [Nest CSS with Sass](https://www.freecodecamp.org/learn/front-end-libraries/sass/nest-css-with-sass)
+- ✅ [Create Reusable CSS with Mixins](https://www.freecodecamp.org/learn/front-end-libraries/sass/create-reusable-css-with-mixins)
+- ✅ [Use @if and @else to Add Logic To Your Styles](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-if-and-else-to-add-logic-to-your-styles)
+- ✅ [Use @for to Create a Sass Loop](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-for-to-create-a-sass-loop)
+- ✅ [Use @each to Map Over Items in a List](https://www.freecodecamp.org/learn/front-end-libraries/sass/use-each-to-map-over-items-in-a-list)
+- ✅ [Apply a Style Until a Condition is Met with @while](https://www.freecodecamp.org/learn/front-end-libraries/sass/apply-a-style-until-a-condition-is-met-with-while)
+- ✅ [Split Your Styles into Smaller Chunks with Partials](https://www.freecodecamp.org/learn/front-end-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
+- ✅ [Extend One Set of CSS Styles to Another Element](https://www.freecodecamp.org/learn/front-end-libraries/sass/extend-one-set-of-css-styles-to-another-element)
+
 ## Round 3, Day 7: Saturday, July 25, 2020
 **Progress:** Finished the [Basic JavaScript: Use Recursion to Create a Range of Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers) challenge with the following solution:
     - `function rangeOfNumbers(startNum, endNum) { if (startNum === endNum) { return [startNum]; } else { const arr = rangeOfNumbers(startNum + 1, endNum); arr.unshift(startNum); return arr; } }`
