@@ -1,10 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 7: Saturday, July 25, 2020
+**Progress:** Finished the [Basic JavaScript: Use Recursion to Create a Range of Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers) challenge with the following solution:
+    - `function rangeOfNumbers(startNum, endNum) { if (startNum === endNum) { return [startNum]; } else { const arr = rangeOfNumbers(startNum + 1, endNum); arr.unshift(startNum); return arr; } }`
+
 ## Round 3, Day 6: Friday, July 24, 2020
-**Progress:** Finished off the [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) project on freeCodeCamp, and started on the [Responsive Web Design Projects - Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) project. Also finished the following challenges:
+**Progress:** Finished off the [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) project on freeCodeCamp, and started on the [Responsive Web Design Projects - Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) project. Also, finished the following challenges:
 - ✅ [Basic JavaScript: Replace Loops using Recursion](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
     - `function sum(arr, n) { return n == 0 ? 0 : sum(arr, n - 1) + arr[n - 1]; }`
+- ✅ [Basic JavaScript: Use Recursion to Create a Countdown](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown)
+    - `function countdown(n){ if (n < 1) { return []; } else { const arr = countdown(n-1); arr.unshift(n); return arr; } }`
+
 
 ## Round 3, Day 5: Thursday, July 23, 2020
 **Progress:** Completed part of the [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) responsive web design project on freeCodeCamp.  Will finish the rest tomorrow.
