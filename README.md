@@ -1,6 +1,21 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 10: Tuesday, July 28, 2020
+**Progress:**
+- Created a basic **Minesweeper** clone on CodePen here: [Minesweeper Clone](https://codepen.io/JoeCodesStuff/pen/MWKdwER). Quite a fun project! It currently works just fine, but I still have some stuff to finish, such as:
+  - Making the whole thing prettier~
+  - Adding a restart button for when the game is won or lost.
+  - Adding a clock / countdown / count-up timer.
+  - Adding a difficulty selector like in the original Minesweeper game:
+    - Easy (9x9 grid with 10 mines)
+    - Medium (16x16 grid with 40 mines)
+    - Hard (16x30 grid with 99 mines)
+    - Custom (custom size with custom number of mines)
+  - Adding a counter for how many flags I have left.
+  - Making post-flag clearing work (when you click both mouse buttons simultaneously on a tile with the correct number of adjacent flagged tiles according to that tile's number, it auto-clicks -- and ostensibly auto-clears -- all unflagged adjacent tiles of the clicked tile. This will lose you the game if you didn't properly flag the adjacent tiles, but greatly speeds up the clearing process.
+  - There's also refactoring to take into account, to make sure any recursion has the lowest possible order of time complexity (in big O notation). I want to see if I simplify things so a setTimeout function on the recursive null-hit click clearing isn't necessary.
+
 ## Round 3, Day 9: Monday, July 27, 2020
 **Progress:** Finished the first half of the **ES6** section of the **JavaScript Algorithms and Data Structures Certification** on freeCodeCamp.
 - ✅ [Introduction to the ES6 Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
