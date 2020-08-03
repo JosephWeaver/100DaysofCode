@@ -1,6 +1,20 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 15: Sunday, August 2, 2020
+**Progress:** Finished some of the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
+  - ✅ [Introduction to the React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+  - ✅ [Create a Simple JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-simple-jsx-element)
+  - ✅ [Create a Complex JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-complex-jsx-element)
+  - ✅ [Add Comments in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/add-comments-in-jsx)
+  - ✅ [Render HTML Elements to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-html-elements-to-the-dom)
+  - ✅ [Define an HTML Class in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/define-an-html-class-in-jsx)
+  - ✅ [Learn About Self-Closing JSX Tags](https://www.freecodecamp.org/learn/front-end-libraries/react/learn-about-self-closing-jsx-tags)
+  - ✅ [Create a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateless-functional-component)
+  - ✅ [Create a React Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-react-component)
+  - ✅ [Create a Component with Composition](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-component-with-composition)
+  - ✅ [Use React to Render Nested Components](https://www.freecodecamp.org/learn/front-end-libraries/react/use-react-to-render-nested-components)
+
 ## Round 3, Day 14: Saturday, August 1, 2020
 **Progress:** New month, new section on freeCodeCamp!
 
