@@ -1,6 +1,20 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 17: Tuesday, August 4, 2020
+**Progress:** Finished the [Managing Packages with npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
+  - ✅ [Introduction to the Managing Packages with npm Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
+  - ✅ [How to Use package.json, the Core of Any Node.js Project or npm Package](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)
+  - ✅ [Add a Description to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package-json)
+  - ✅ [Add Keywords to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package-json)
+  - ✅ [Add a License to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package-json)
+  - ✅ [Add a Version to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package-json)
+  - ✅ [Expand Your Project with External Packages from npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm)
+  - ✅ [Manage npm Dependencies By Understanding Semantic Versioning](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning)
+  - ✅ [Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency)
+  - ✅ [Use the Caret-Character to Use the Latest Minor Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency)
+  - ✅ [Remove a Package from Your Dependencies](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/remove-a-package-from-your-dependencies)
+
 ## Round 3, Day 16: Monday, August 3, 2020
 **Progress:** Finished the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp. Woo!
   - ✅ [Compose React Components](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
