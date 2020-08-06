@@ -1,6 +1,22 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 18: Wednesday, August 5, 2020
+**Progress:** Finished the [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
+  - ✅ [Introduction to the Basic Node and Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
+  - ✅ [Meet the Node console](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/meet-the-node-console)
+  - ✅ [Start a Working Express Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/start-a-working-express-server)
+  - ✅ [Serve an HTML File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-an-html-file)
+  - ✅ [Serve Static Assets](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-static-assets)
+  - ✅ [Serve JSON on a Specific Route](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route)
+  - ✅ [Use the .env File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-the--env-file)
+  - ✅ [Implement a Root-Level Request Logger Middleware](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/implement-a-root-level-request-logger-middleware)
+  - ✅ [Chain Middleware to Create a Time Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
+  - ✅ [Get Route Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-route-parameter-input-from-the-client)
+  - ✅ [Get Query Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-query-parameter-input-from-the-client)
+  - ✅ [Use body-parser to Parse POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests)
+  - ✅ [Get Data from POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-data-from-post-requests)
+
 ## Round 3, Day 17: Tuesday, August 4, 2020
 **Progress:** Finished the [Managing Packages with npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
   - ✅ [Introduction to the Managing Packages with npm Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
