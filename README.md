@@ -1,6 +1,13 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 19: Thursday, August 6, 2020
+**Progress:** Finished the first few [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Introduction to the Project Euler Problems](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/)
+  - ✅ [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
+  - ✅ [Problem 2: Even Fibonacci Numbers](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
+  - ✅ [Problem 3: Largest prime factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor)
+
 ## Round 3, Day 18: Wednesday, August 5, 2020
 **Progress:** Finished the [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
   - ✅ [Introduction to the Basic Node and Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
