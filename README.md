@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 21: Saturday, August 8, 2020
+**Progress:**
+  - ✅ Finished [Problem 4: Largest palindrome product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product), one of the [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
+
 ## Round 3, Day 20: Friday, August 7, 2020
 **Progress:**
   - ✅ Finished [100 Doors](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors), a problem in the [Rosetta Code](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/) portion in the **Coding Interview Prep** section on freeCodeCamp.
