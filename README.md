@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 20: Friday, August 7, 2020
+**Progress:**
+  - ✅ Finished [100 Doors](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors), a problem in the [Rosetta Code](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+
 ## Round 3, Day 19: Thursday, August 6, 2020
 **Progress:** Finished the first few [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Introduction to the Project Euler Problems](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/)
