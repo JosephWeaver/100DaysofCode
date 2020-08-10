@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 22: Sunday, August 9, 2020
+**Progress:** Started the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+
 ## Round 3, Day 21: Saturday, August 8, 2020
 **Progress:**
   - ✅ Finished [Problem 4: Largest palindrome product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product), one of the [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
