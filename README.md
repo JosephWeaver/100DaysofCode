@@ -1,11 +1,23 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 24: Tuesday, August 11, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Create a Circular Queue](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
+  - ✅ [Create a Set Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class)
+  - ✅ [Perform a Union on Two Sets](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
+
 ## Round 3, Day 23: Monday, August 10, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Create a Stack Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-stack-class)
+  - ✅ [Create a Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-queue-class)
+  - ✅ [Create a Priority Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
 
 ## Round 3, Day 22: Sunday, August 9, 2020
 **Progress:** Started the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Introduction to the Coding Interview Data Structure Questions](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/)
+  - ✅ [Typed Arrays](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
+  - ✅ [Learn how a Stack Works](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)
 
 ## Round 3, Day 21: Saturday, August 8, 2020
 **Progress:**
