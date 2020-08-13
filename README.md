@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 25: Wednesday, August 12, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Perform an Intersection on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
+  - ✅ [Perform a Difference on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-difference-on-two-sets-of-data)
+  - ✅ [Perform a Subset Check on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-subset-check-on-two-sets-of-data)
+
 ## Round 3, Day 24: Tuesday, August 11, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Create a Circular Queue](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
