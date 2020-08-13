@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 26: Thursday, August 13, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Create and Add to Sets in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-and-add-to-sets-in-es6)
+  - ✅ [Remove items from a set in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-items-from-a-set-in-es6)
+  - ✅ [Use .has and .size on an ES6 Set](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set)
+
 ## Round 3, Day 25: Wednesday, August 12, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Perform an Intersection on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
