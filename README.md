@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 27: Friday, August 14, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Use Spread and Notes for ES5 Set() Integration](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
+  - ✅ [Create a Map Data Structure](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure)
+  - ✅ [Create an ES6 JavaScript Map](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-an-es6-javascript-map)
+
 ## Round 3, Day 26: Thursday, August 13, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Create and Add to Sets in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-and-add-to-sets-in-es6)
