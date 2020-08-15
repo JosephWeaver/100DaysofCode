@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 28: Saturday, August 15, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Create a Hash Table](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
+  - ✅ [Work with Nodes in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/work-with-nodes-in-a-linked-list)
+  - ✅ [Create a Linked List Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class)
+
 ## Round 3, Day 27: Friday, August 14, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Use Spread and Notes for ES5 Set() Integration](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
