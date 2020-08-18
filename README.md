@@ -1,8 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
-## Round 3, Day 29: Sunday, August 16, 2020
+## Round 3, Day 30: Monday, August 17, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Add Elements at a Specific Index in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-elements-at-a-specific-index-in-a-linked-list)
+  - ✅ [Create a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-doubly-linked-list)
+  - ✅ [Reverse a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/reverse-a-doubly-linked-list)
+
+  ## Round 3, Day 29: Sunday, August 16, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Remove Elements from a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list)
+  - ✅ [Search within a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/search-within-a-linked-list)
+  - ✅ [Remove Elements from a Linked List by Index](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list-by-index)
 
 ## Round 3, Day 28: Saturday, August 15, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
