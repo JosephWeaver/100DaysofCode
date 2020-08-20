@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 32: Wednesday, August 19, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Check if Tree is Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/check-if-tree-is-binary-search-tree)
+  - ✅ [Find the Minimum and Maximum Height of a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-height-of-a-binary-search-tree)
+  - ✅ [Use Depth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-depth-first-search-in-a-binary-search-tree)
+
 ## Round 3, Day 31: Tuesday, August 18, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Add a New Element to a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-a-new-element-to-a-binary-search-tree)
