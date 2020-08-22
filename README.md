@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 34: Friday, August 21, 2020
+**Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Delete a Node with Two Children in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-two-children-in-a-binary-search-tree)
+  - ✅ [Invert a Binary Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/invert-a-binary-tree)
+  - ✅ [Create a Trie Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-trie-search-tree)
+
 ## Round 3, Day 33: Thursday, August 20, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Use Breadth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree)
