@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 36: Sunday, August 23, 2020
+**Progress:** Got bored of the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp, and so created a CodePen for a horizontally-scrolling concept I'd talked about with a friend: [Vanilla JS Horizontal Scroll Wheel (no Shift Key)
+](https://codepen.io/JoeCodesStuff/pen/ZEWLJrQ)
+
 ## Round 3, Day 35: Saturday, August 22, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Insert an Element into a Max Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/insert-an-element-into-a-max-heap)
