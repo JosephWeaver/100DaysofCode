@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 37: Monday, August 24, 2020
+**Progress:** Moved on to the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
+  - ✅ [Introduction: Why Program?](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-why-program)
+  - ✅ [Introduction: Hardware Architecture](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-hardware-architecture)
+
 ## Round 3, Day 36: Sunday, August 23, 2020
 **Progress:** Got bored of the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp, and so created a CodePen for a horizontally-scrolling concept I'd talked about with a friend: [Vanilla JS Horizontal Scroll Wheel (no Shift Key)
 ](https://codepen.io/JoeCodesStuff/pen/ZEWLJrQ)
