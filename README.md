@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 38: Tuesday, August 25, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Introduction: Python as a Language](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-python-as-a-language)
+  - ✅ [Introduction: Elements of Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-elements-of-python)
+  - ✅ [Variables, Expressions, and Statements](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/variables-expressions-and-statements)
+
 ## Round 3, Day 37: Monday, August 24, 2020
 **Progress:** Moved on to the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
