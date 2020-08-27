@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 39: Wednesday, August 26, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Intermediate Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
+  - ✅ [Conditional Execution](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution)
+  - ✅ [More Conditional Structures](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures)
+
 ## Round 3, Day 38: Tuesday, August 25, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Introduction: Python as a Language](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-python-as-a-language)
