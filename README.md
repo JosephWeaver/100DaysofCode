@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 40: Thursday, August 27, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Python Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-functions)
+  - ✅ [Build your own Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/build-your-own-functions)
+  - ✅ [Loops and Iterations](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/loops-and-iterations)
+
 ## Round 3, Day 39: Wednesday, August 26, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Intermediate Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
