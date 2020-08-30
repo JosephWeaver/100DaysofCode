@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 42: Saturday, August 29, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Strings in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
+  - ✅ [Intermediate Strings](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings)
+
 ## Round 3, Day 41: Friday, August 28, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Iterations: Definite Loops](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-definite-loops)
