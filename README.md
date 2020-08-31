@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 43: Sunday, August 30, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Reading Files](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/reading-files)
+  - ✅ [Files as a Sequence](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence)
+
 ## Round 3, Day 42: Saturday, August 29, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Strings in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
