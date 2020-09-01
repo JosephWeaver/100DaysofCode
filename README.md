@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 45: Tuesday, September 1, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Strings and Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists)
+  - ✅ [Python Dictionaries](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-dictionaries)
+
 ## Round 3, Day 44: Monday, August 31, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Python Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-lists)
