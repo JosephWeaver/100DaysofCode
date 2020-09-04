@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 47: Thursday, September 3, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [The Tuples Collection](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/the-tuples-collection)
+  - ✅ [Comparing and Sorting Tuples](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/comparing-and-sorting-tuples)
+
 ## Round 3, Day 46: Wednesday, September 2, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Dictionaries: Common Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications)
