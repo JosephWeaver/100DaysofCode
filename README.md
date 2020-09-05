@@ -1,6 +1,14 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 49: Saturday, September 5, 2020
+**Progress:** Finished out the last five of the [Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+  - ✅ [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+  - ✅ [Implement Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
+  - ✅ [Implement Insertion Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
+  - ✅ [Implement Quick Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
+  - ✅ [Implement Merge Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
+
 ## Round 3, Day 48: Friday, September 4, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Regular Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions)
