@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 50: Sunday, September 6, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Regular Expressions: Practical Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions-practical-applications)
+  - ✅ [Networking with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-with-python)
+
 ## Round 3, Day 49: Saturday, September 5, 2020
 **Progress:** Finished out the last five of the [Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
   - ✅ [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
