@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 52: Tuesday, September 8, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Networking: Text Processing](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-text-processing)
+  - ✅ [Networking: Using urllib in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-using-urllib-in-python)
+  - ✅ [Networking: Web Scraping with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-web-scraping-with-python)
+
 ## Round 3, Day 51: Monday, September 7, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Networking Protocol](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-protocol)
