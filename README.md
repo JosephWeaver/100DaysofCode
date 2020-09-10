@@ -1,6 +1,12 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 53: Wednesday, September 9, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Using Web Services](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/using-web-services)
+  - ✅ [Web Services: XML](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml)
+  - ✅ [Web Services: XML Schema](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml-schema)
+
 ## Round 3, Day 52: Tuesday, September 8, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Networking: Text Processing](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-text-processing)
