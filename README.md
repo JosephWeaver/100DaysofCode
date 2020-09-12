@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 55: Friday, September 11, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Web Services: API Rate Limiting and Security](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-api-rate-limiting-and-security)
+  - ✅ [Python Objects](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-objects)
+
 ## Round 3, Day 54: Thursday, September 10, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Web Services: JSON](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-json)
