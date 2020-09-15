@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 58: Monday, September 14, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Make a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/make-a-relational-database)
+  - ✅ [Relational Database Design](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-database-design)
+
 ## Round 3, Day 57: Sunday, September 13, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Objects: Inheritance](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-inheritance)
