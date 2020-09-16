@@ -1,6 +1,11 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 60: Wednesday, September 16, 2020
+**Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
+  - ✅ [Relational Databases: Join Operation](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation)
+  - ✅ [Relational Databases: Many-to-many Relationships](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-many-to-many-relationships)
+
 ## Round 3, Day 59: Tuesday, September 15, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Representing Relationships in a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/representing-relationships-in-a-relational-database)
