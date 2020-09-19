@@ -1,6 +1,9 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 62: Friday, September 18, 2020
+**Progress:** Brushed up on the Merge Sort algorithm on CodePen... now I can complete it from memory, hooray!: https://codepen.io/JoeCodesStuff/pen/BaKqWMR
+
 ## Round 3, Day 61: Thursday, September 17, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
   - ✅ [Visualizing Data with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python)
