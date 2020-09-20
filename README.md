@@ -1,6 +1,15 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 63: Saturday, September 19, 2020
+**Progress:** Reset my progress and started over on [Andrew Mead](https://mead.io)'s [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/). I need to get a job soon, so I should be getting my hands dirty with React as much as possible. I may also take Stephen Grider's course [Modern React with Redux (2020 Update)](https://www.udemy.com/course/react-redux/) after this one, for good measure! A little bit (read: a lot) of recap from a different teaching perspective certainly couldn't hurt!
+
+- ✅ 1. Welcome & Asking Good Questions
+- ✅ 2. "Why should I learn React?"
+- ✅ 3. Section Intro: Setting up Your Environment
+- ✅ 4. Installing Visual Studio Code
+- ✅ 5. Installing Node.js & Yarn
+
 ## Round 3, Day 62: Friday, September 18, 2020
 **Progress:** Brushed up on the Merge Sort algorithm on CodePen... now I can complete it from memory, hooray!: https://codepen.io/JoeCodesStuff/pen/BaKqWMR
 
