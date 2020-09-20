@@ -6,140 +6,140 @@
 
 ## Round 3, Day 61: Thursday, September 17, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Visualizing Data with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python)
-  - ✅ [Data Visualization: Page Rank](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/data-visualization-page-rank)
-  - ✅ [Data Visualization: Mailing Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/data-visualization-mailing-lists)
+- ✅ [Visualizing Data with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/visualizing-data-with-python)
+- ✅ [Data Visualization: Page Rank](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/data-visualization-page-rank)
+- ✅ [Data Visualization: Mailing Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/data-visualization-mailing-lists)
 
 ## Round 3, Day 60: Wednesday, September 16, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Relational Databases: Join Operation](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation)
-  - ✅ [Relational Databases: Many-to-many Relationships](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-many-to-many-relationships)
+- ✅ [Relational Databases: Join Operation](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-join-operation)
+- ✅ [Relational Databases: Many-to-many Relationships](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-many-to-many-relationships)
 
 ## Round 3, Day 59: Tuesday, September 15, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Representing Relationships in a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/representing-relationships-in-a-relational-database)
-  - ✅ [Relational Databases: Relationship Building](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-relationship-building)
+- ✅ [Representing Relationships in a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/representing-relationships-in-a-relational-database)
+- ✅ [Relational Databases: Relationship Building](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-relationship-building)
 
 ## Round 3, Day 58: Monday, September 14, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Make a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/make-a-relational-database)
-  - ✅ [Relational Database Design](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-database-design)
+- ✅ [Make a Relational Database](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/make-a-relational-database)
+- ✅ [Relational Database Design](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-database-design)
 
 ## Round 3, Day 57: Sunday, September 13, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Objects: Inheritance](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-inheritance)
-  - ✅ [Relational Databases and SQLite](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-and-sqlite)
+- ✅ [Objects: Inheritance](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-inheritance)
+- ✅ [Relational Databases and SQLite](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/relational-databases-and-sqlite)
 
 ## Round 3, Day 56: Saturday, September 12, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Objects: A Sample Class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-a-sample-class)
-  - ✅ [Object Lifecycle](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/object-lifecycle)
+- ✅ [Objects: A Sample Class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/objects-a-sample-class)
+- ✅ [Object Lifecycle](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/object-lifecycle)
 
 ## Round 3, Day 55: Friday, September 11, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Web Services: API Rate Limiting and Security](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-api-rate-limiting-and-security)
-  - ✅ [Python Objects](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-objects)
+- ✅ [Web Services: API Rate Limiting and Security](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-api-rate-limiting-and-security)
+- ✅ [Python Objects](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-objects)
 
 ## Round 3, Day 54: Thursday, September 10, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Web Services: JSON](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-json)
-  - ✅ [Web Services: Service Oriented Approach](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-service-oriented-approach)
-  - ✅ [Web Services: APIs](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-apis)
+- ✅ [Web Services: JSON](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-json)
+- ✅ [Web Services: Service Oriented Approach](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-service-oriented-approach)
+- ✅ [Web Services: APIs](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-apis)
 
 ## Round 3, Day 53: Wednesday, September 9, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Using Web Services](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/using-web-services)
-  - ✅ [Web Services: XML](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml)
-  - ✅ [Web Services: XML Schema](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml-schema)
+- ✅ [Using Web Services](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/using-web-services)
+- ✅ [Web Services: XML](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml)
+- ✅ [Web Services: XML Schema](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/web-services-xml-schema)
 
 ## Round 3, Day 52: Tuesday, September 8, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Networking: Text Processing](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-text-processing)
-  - ✅ [Networking: Using urllib in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-using-urllib-in-python)
-  - ✅ [Networking: Web Scraping with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-web-scraping-with-python)
+- ✅ [Networking: Text Processing](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-text-processing)
+- ✅ [Networking: Using urllib in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-using-urllib-in-python)
+- ✅ [Networking: Web Scraping with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-web-scraping-with-python)
 
 ## Round 3, Day 51: Monday, September 7, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Networking Protocol](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-protocol)
-  - ✅ [Networking: Write a Web Browser](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-write-a-web-browser)
+- ✅ [Networking Protocol](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-protocol)
+- ✅ [Networking: Write a Web Browser](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-write-a-web-browser)
 
 ## Round 3, Day 50: Sunday, September 6, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Regular Expressions: Practical Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions-practical-applications)
-  - ✅ [Networking with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-with-python)
+- ✅ [Regular Expressions: Practical Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions-practical-applications)
+- ✅ [Networking with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-with-python)
 
 ## Round 3, Day 49: Saturday, September 5, 2020
 **Progress:** Finished out the last five of the [Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
-  - ✅ [Implement Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
-  - ✅ [Implement Insertion Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
-  - ✅ [Implement Quick Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
-  - ✅ [Implement Merge Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
+- ✅ [Implement Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
+- ✅ [Implement Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
+- ✅ [Implement Insertion Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
+- ✅ [Implement Quick Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-quick-sort)
+- ✅ [Implement Merge Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-merge-sort)
 
 ## Round 3, Day 48: Friday, September 4, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Regular Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions)
-  - ✅ [Regular Expressions: Matching and Extracting Data](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions-matching-and-extracting-data)
+- ✅ [Regular Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions)
+- ✅ [Regular Expressions: Matching and Extracting Data](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/regular-expressions-matching-and-extracting-data)
 
 ## Round 3, Day 47: Thursday, September 3, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [The Tuples Collection](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/the-tuples-collection)
-  - ✅ [Comparing and Sorting Tuples](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/comparing-and-sorting-tuples)
+- ✅ [The Tuples Collection](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/the-tuples-collection)
+- ✅ [Comparing and Sorting Tuples](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/comparing-and-sorting-tuples)
 
 ## Round 3, Day 46: Wednesday, September 2, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Dictionaries: Common Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications)
-  - ✅ [Dictionaries and Loops](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-and-loops)
+- ✅ [Dictionaries: Common Applications](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications)
+- ✅ [Dictionaries and Loops](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-and-loops)
 
 ## Round 3, Day 45: Tuesday, September 1, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Strings and Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists)
-  - ✅ [Python Dictionaries](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-dictionaries)
+- ✅ [Strings and Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists)
+- ✅ [Python Dictionaries](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-dictionaries)
 
 ## Round 3, Day 44: Monday, August 31, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Python Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-lists)
-  - ✅ [Working with Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/working-with-lists)
+- ✅ [Python Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-lists)
+- ✅ [Working with Lists](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/working-with-lists)
 
 ## Round 3, Day 43: Sunday, August 30, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Reading Files](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/reading-files)
-  - ✅ [Files as a Sequence](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence)
+- ✅ [Reading Files](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/reading-files)
+- ✅ [Files as a Sequence](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence)
 
 ## Round 3, Day 42: Saturday, August 29, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Strings in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
-  - ✅ [Intermediate Strings](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings)
+- ✅ [Strings in Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
+- ✅ [Intermediate Strings](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings)
 
 ## Round 3, Day 41: Friday, August 28, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Iterations: Definite Loops](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-definite-loops)
-  - ✅ [Iterations: Loop Idioms](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-loop-idioms)
-  - ✅ [Iterations: More Patterns](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-more-patterns)
+- ✅ [Iterations: Definite Loops](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-definite-loops)
+- ✅ [Iterations: Loop Idioms](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-loop-idioms)
+- ✅ [Iterations: More Patterns](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-more-patterns)
 
 ## Round 3, Day 40: Thursday, August 27, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Python Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-functions)
-  - ✅ [Build your own Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/build-your-own-functions)
-  - ✅ [Loops and Iterations](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/loops-and-iterations)
+- ✅ [Python Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-functions)
+- ✅ [Build your own Functions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/build-your-own-functions)
+- ✅ [Loops and Iterations](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/loops-and-iterations)
 
 ## Round 3, Day 39: Wednesday, August 26, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Intermediate Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
-  - ✅ [Conditional Execution](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution)
-  - ✅ [More Conditional Structures](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures)
+- ✅ [Intermediate Expressions](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
+- ✅ [Conditional Execution](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution)
+- ✅ [More Conditional Structures](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures)
 
 ## Round 3, Day 38: Tuesday, August 25, 2020
 **Progress:** Continued with the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Introduction: Python as a Language](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-python-as-a-language)
-  - ✅ [Introduction: Elements of Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-elements-of-python)
-  - ✅ [Variables, Expressions, and Statements](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/variables-expressions-and-statements)
+- ✅ [Introduction: Python as a Language](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-python-as-a-language)
+- ✅ [Introduction: Elements of Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-elements-of-python)
+- ✅ [Variables, Expressions, and Statements](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/variables-expressions-and-statements)
 
 ## Round 3, Day 37: Monday, August 24, 2020
 **Progress:** Moved on to the [Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/) part of the **Scientific Computing with Python** section on freeCodeCamp.
-  - ✅ [Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
-  - ✅ [Introduction: Why Program?](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-why-program)
-  - ✅ [Introduction: Hardware Architecture](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-hardware-architecture)
+- ✅ [Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
+- ✅ [Introduction: Why Program?](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-why-program)
+- ✅ [Introduction: Hardware Architecture](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-hardware-architecture)
 
 ## Round 3, Day 36: Sunday, August 23, 2020
 **Progress:** Got bored of the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp, and so created a CodePen for a horizontally-scrolling concept I'd talked about with a friend: [Vanilla JS Horizontal Scroll Wheel (no Shift Key)
@@ -147,354 +147,354 @@
 
 ## Round 3, Day 35: Saturday, August 22, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Insert an Element into a Max Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/insert-an-element-into-a-max-heap)
-  - ✅ [Remove an Element from a Max Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-an-element-from-a-max-heap)
-  - ✅ [Implement Heap Sort with a Min Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/implement-heap-sort-with-a-min-heap)
+- ✅ [Insert an Element into a Max Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/insert-an-element-into-a-max-heap)
+- ✅ [Remove an Element from a Max Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-an-element-from-a-max-heap)
+- ✅ [Implement Heap Sort with a Min Heap](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/implement-heap-sort-with-a-min-heap)
 
 ## Round 3, Day 34: Friday, August 21, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Delete a Node with Two Children in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-two-children-in-a-binary-search-tree)
-  - ✅ [Invert a Binary Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/invert-a-binary-tree)
-  - ✅ [Create a Trie Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-trie-search-tree)
+- ✅ [Delete a Node with Two Children in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-two-children-in-a-binary-search-tree)
+- ✅ [Invert a Binary Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/invert-a-binary-tree)
+- ✅ [Create a Trie Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-trie-search-tree)
 
 ## Round 3, Day 33: Thursday, August 20, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Use Breadth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree)
-  - ✅ [Delete a Leaf Node in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-leaf-node-in-a-binary-search-tree)
-  - ✅ [Delete a Node with One Child in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-one-child-in-a-binary-search-tree)
+- ✅ [Use Breadth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-breadth-first-search-in-a-binary-search-tree)
+- ✅ [Delete a Leaf Node in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-leaf-node-in-a-binary-search-tree)
+- ✅ [Delete a Node with One Child in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/delete-a-node-with-one-child-in-a-binary-search-tree)
 
 ## Round 3, Day 32: Wednesday, August 19, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Check if Tree is Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/check-if-tree-is-binary-search-tree)
-  - ✅ [Find the Minimum and Maximum Height of a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-height-of-a-binary-search-tree)
-  - ✅ [Use Depth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-depth-first-search-in-a-binary-search-tree)
+- ✅ [Check if Tree is Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/check-if-tree-is-binary-search-tree)
+- ✅ [Find the Minimum and Maximum Height of a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-height-of-a-binary-search-tree)
+- ✅ [Use Depth First Search in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-depth-first-search-in-a-binary-search-tree)
 
 ## Round 3, Day 31: Tuesday, August 18, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Add a New Element to a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-a-new-element-to-a-binary-search-tree)
-  - ✅ [Find the Minimum and Maximum Value in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-value-in-a-binary-search-tree)
-  - ✅ [Check if an Element is Present in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/check-if-an-element-is-present-in-a-binary-search-tree)
+- ✅ [Add a New Element to a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-a-new-element-to-a-binary-search-tree)
+- ✅ [Find the Minimum and Maximum Value in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/find-the-minimum-and-maximum-value-in-a-binary-search-tree)
+- ✅ [Check if an Element is Present in a Binary Search Tree](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/check-if-an-element-is-present-in-a-binary-search-tree)
 
 ## Round 3, Day 30: Monday, August 17, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Add Elements at a Specific Index in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-elements-at-a-specific-index-in-a-linked-list)
-  - ✅ [Create a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-doubly-linked-list)
-  - ✅ [Reverse a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/reverse-a-doubly-linked-list)
+- ✅ [Add Elements at a Specific Index in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/add-elements-at-a-specific-index-in-a-linked-list)
+- ✅ [Create a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-doubly-linked-list)
+- ✅ [Reverse a Doubly Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/reverse-a-doubly-linked-list)
 
   ## Round 3, Day 29: Sunday, August 16, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Remove Elements from a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list)
-  - ✅ [Search within a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/search-within-a-linked-list)
-  - ✅ [Remove Elements from a Linked List by Index](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list-by-index)
+- ✅ [Remove Elements from a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list)
+- ✅ [Search within a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/search-within-a-linked-list)
+- ✅ [Remove Elements from a Linked List by Index](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list-by-index)
 
 ## Round 3, Day 28: Saturday, August 15, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Create a Hash Table](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
-  - ✅ [Work with Nodes in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/work-with-nodes-in-a-linked-list)
-  - ✅ [Create a Linked List Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class)
+- ✅ [Create a Hash Table](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-hash-table)
+- ✅ [Work with Nodes in a Linked List](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/work-with-nodes-in-a-linked-list)
+- ✅ [Create a Linked List Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-linked-list-class)
 
 ## Round 3, Day 27: Friday, August 14, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Use Spread and Notes for ES5 Set() Integration](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
-  - ✅ [Create a Map Data Structure](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure)
-  - ✅ [Create an ES6 JavaScript Map](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-an-es6-javascript-map)
+- ✅ [Use Spread and Notes for ES5 Set() Integration](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use-spread-and-notes-for-es5-set-integration)
+- ✅ [Create a Map Data Structure](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-map-data-structure)
+- ✅ [Create an ES6 JavaScript Map](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-an-es6-javascript-map)
 
 ## Round 3, Day 26: Thursday, August 13, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Create and Add to Sets in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-and-add-to-sets-in-es6)
-  - ✅ [Remove items from a set in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-items-from-a-set-in-es6)
-  - ✅ [Use .has and .size on an ES6 Set](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set)
+- ✅ [Create and Add to Sets in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-and-add-to-sets-in-es6)
+- ✅ [Remove items from a set in ES6](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-items-from-a-set-in-es6)
+- ✅ [Use .has and .size on an ES6 Set](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/use--has-and--size-on-an-es6-set)
 
 ## Round 3, Day 25: Wednesday, August 12, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Perform an Intersection on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
-  - ✅ [Perform a Difference on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-difference-on-two-sets-of-data)
-  - ✅ [Perform a Subset Check on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-subset-check-on-two-sets-of-data)
+- ✅ [Perform an Intersection on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-an-intersection-on-two-sets-of-data)
+- ✅ [Perform a Difference on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-difference-on-two-sets-of-data)
+- ✅ [Perform a Subset Check on Two Sets of Data](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-subset-check-on-two-sets-of-data)
 
 ## Round 3, Day 24: Tuesday, August 11, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Create a Circular Queue](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
-  - ✅ [Create a Set Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class)
-  - ✅ [Perform a Union on Two Sets](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
+- ✅ [Create a Circular Queue](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-circular-queue)
+- ✅ [Create a Set Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-set-class)
+- ✅ [Perform a Union on Two Sets](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/perform-a-union-on-two-sets)
 
 ## Round 3, Day 23: Monday, August 10, 2020
 **Progress:** Continued on the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Create a Stack Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-stack-class)
-  - ✅ [Create a Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-queue-class)
-  - ✅ [Create a Priority Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
+- ✅ [Create a Stack Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-stack-class)
+- ✅ [Create a Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-queue-class)
+- ✅ [Create a Priority Queue Class](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/create-a-priority-queue-class)
 
 ## Round 3, Day 22: Sunday, August 9, 2020
 **Progress:** Started the [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/) portion in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Introduction to the Coding Interview Data Structure Questions](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/)
-  - ✅ [Typed Arrays](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
-  - ✅ [Learn how a Stack Works](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)
+- ✅ [Introduction to the Coding Interview Data Structure Questions](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/)
+- ✅ [Typed Arrays](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
+- ✅ [Learn how a Stack Works](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)
 
 ## Round 3, Day 21: Saturday, August 8, 2020
 **Progress:**
-  - ✅ Finished [Problem 4: Largest palindrome product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product), one of the [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
+- ✅ Finished [Problem 4: Largest palindrome product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product), one of the [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
 
 ## Round 3, Day 20: Friday, August 7, 2020
 **Progress:**
-  - ✅ Finished [100 Doors](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors), a problem in the [Rosetta Code](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/) portion in the **Coding Interview Prep** section on freeCodeCamp.
+- ✅ Finished [100 Doors](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors), a problem in the [Rosetta Code](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/) portion in the **Coding Interview Prep** section on freeCodeCamp.
 
 ## Round 3, Day 19: Thursday, August 6, 2020
 **Progress:** Finished the first few [Project Euler](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) problems in the **Coding Interview Prep** section on freeCodeCamp.
-  - ✅ [Introduction to the Project Euler Problems](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/)
-  - ✅ [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
-  - ✅ [Problem 2: Even Fibonacci Numbers](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
-  - ✅ [Problem 3: Largest prime factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor)
+- ✅ [Introduction to the Project Euler Problems](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/)
+- ✅ [Problem 1: Multiples of 3 and 5](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-1-multiples-of-3-and-5)
+- ✅ [Problem 2: Even Fibonacci Numbers](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-2-even-fibonacci-numbers)
+- ✅ [Problem 3: Largest prime factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor)
 
 ## Round 3, Day 18: Wednesday, August 5, 2020
 **Progress:** Finished the [Basic Node and Express](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
-  - ✅ [Introduction to the Basic Node and Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
-  - ✅ [Meet the Node console](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/meet-the-node-console)
-  - ✅ [Start a Working Express Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/start-a-working-express-server)
-  - ✅ [Serve an HTML File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-an-html-file)
-  - ✅ [Serve Static Assets](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-static-assets)
-  - ✅ [Serve JSON on a Specific Route](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route)
-  - ✅ [Use the .env File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-the--env-file)
-  - ✅ [Implement a Root-Level Request Logger Middleware](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/implement-a-root-level-request-logger-middleware)
-  - ✅ [Chain Middleware to Create a Time Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
-  - ✅ [Get Route Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-route-parameter-input-from-the-client)
-  - ✅ [Get Query Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-query-parameter-input-from-the-client)
-  - ✅ [Use body-parser to Parse POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests)
-  - ✅ [Get Data from POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-data-from-post-requests)
+- ✅ [Introduction to the Basic Node and Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
+- ✅ [Meet the Node console](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/meet-the-node-console)
+- ✅ [Start a Working Express Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/start-a-working-express-server)
+- ✅ [Serve an HTML File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-an-html-file)
+- ✅ [Serve Static Assets](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-static-assets)
+- ✅ [Serve JSON on a Specific Route](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/serve-json-on-a-specific-route)
+- ✅ [Use the .env File](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-the--env-file)
+- ✅ [Implement a Root-Level Request Logger Middleware](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/implement-a-root-level-request-logger-middleware)
+- ✅ [Chain Middleware to Create a Time Server](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/chain-middleware-to-create-a-time-server)
+- ✅ [Get Route Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-route-parameter-input-from-the-client)
+- ✅ [Get Query Parameter Input from the Client](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-query-parameter-input-from-the-client)
+- ✅ [Use body-parser to Parse POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests)
+- ✅ [Get Data from POST Requests](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/get-data-from-post-requests)
 
 ## Round 3, Day 17: Tuesday, August 4, 2020
 **Progress:** Finished the [Managing Packages with npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/) section on the **[APIs and Microservices Certification](https://www.freecodecamp.org/certification/joeweaver/apis-and-microservices)** on freeCodeCamp.
-  - ✅ [Introduction to the Managing Packages with npm Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
-  - ✅ [How to Use package.json, the Core of Any Node.js Project or npm Package](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)
-  - ✅ [Add a Description to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package-json)
-  - ✅ [Add Keywords to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package-json)
-  - ✅ [Add a License to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package-json)
-  - ✅ [Add a Version to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package-json)
-  - ✅ [Expand Your Project with External Packages from npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm)
-  - ✅ [Manage npm Dependencies By Understanding Semantic Versioning](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning)
-  - ✅ [Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency)
-  - ✅ [Use the Caret-Character to Use the Latest Minor Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency)
-  - ✅ [Remove a Package from Your Dependencies](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/remove-a-package-from-your-dependencies)
+- ✅ [Introduction to the Managing Packages with npm Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/)
+- ✅ [How to Use package.json, the Core of Any Node.js Project or npm Package](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package)
+- ✅ [Add a Description to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-description-to-your-package-json)
+- ✅ [Add Keywords to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-keywords-to-your-package-json)
+- ✅ [Add a License to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-license-to-your-package-json)
+- ✅ [Add a Version to Your package.json](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/add-a-version-to-your-package-json)
+- ✅ [Expand Your Project with External Packages from npm](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/expand-your-project-with-external-packages-from-npm)
+- ✅ [Manage npm Dependencies By Understanding Semantic Versioning](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/manage-npm-dependencies-by-understanding-semantic-versioning)
+- ✅ [Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-tilde-character-to-always-use-the-latest-patch-version-of-a-dependency)
+- ✅ [Use the Caret-Character to Use the Latest Minor Version of a Dependency](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/use-the-caret-character-to-use-the-latest-minor-version-of-a-dependency)
+- ✅ [Remove a Package from Your Dependencies](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/remove-a-package-from-your-dependencies)
 
 ## Round 3, Day 16: Monday, August 3, 2020
 **Progress:** Finished the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp. Woo!
-  - ✅ [Compose React Components](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
-  - ✅ [Render a Class Component to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-a-class-component-to-the-dom)
-  - ✅ [Write a React Component from Scratch](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
-  - ✅ [Pass Props to a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-props-to-a-stateless-functional-component)
-  - ✅ [Pass an Array as Props](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-an-array-as-props)
-  - ✅ [Use Default Props](https://www.freecodecamp.org/learn/front-end-libraries/react/use-default-props)
-  - ✅ [Override Default Props](https://www.freecodecamp.org/learn/front-end-libraries/react/override-default-props)
-  - ✅ [Use PropTypes to Define the Props You Expect](https://www.freecodecamp.org/learn/front-end-libraries/react/use-proptypes-to-define-the-props-you-expect)
-  - ✅ [Access Props Using this.props](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
-  - ✅ [Review Using Props with Stateless Functional Components](https://www.freecodecamp.org/learn/front-end-libraries/react/review-using-props-with-stateless-functional-components)
-  - ✅ [Create a Stateful Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateful-component)
-  - ✅ [Render State in the User Interface](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface)
-  - ✅ [Render State in the User Interface Another Way](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface-another-way)
-  - ✅ [Set State with this.setState](https://www.freecodecamp.org/learn/front-end-libraries/react/set-state-with-this-setstate)
-  - ✅ [Bind 'this' to a Class Method](https://www.freecodecamp.org/learn/front-end-libraries/react/bind-this-to-a-class-method)
-  - ✅ [Use State to Toggle an Element](https://www.freecodecamp.org/learn/front-end-libraries/react/use-state-to-toggle-an-element)
-  - ✅ [Write a Simple Counter](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-simple-counter)
-  - ✅ [Create a Controlled Input](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-input)
-  - ✅ [Create a Controlled Form](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-form)
-  - ✅ [Pass State as Props to Child Components](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-state-as-props-to-child-components)
-  - ✅ [Pass a Callback as Props](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
-  - ✅ [Use the Lifecycle Method componentWillMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentwillmount)
-  - ✅ [Use the Lifecycle Method componentDidMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentdidmount)
-  - ✅ [Add Event Listeners](https://www.freecodecamp.org/learn/front-end-libraries/react/add-event-listeners)
-  - ✅ [Optimize Re-Renders with shouldComponentUpdate](https://www.freecodecamp.org/learn/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate)
-  - ✅ [Introducing Inline Styles](https://www.freecodecamp.org/learn/front-end-libraries/react/introducing-inline-styles)
-  - ✅ [Add Inline Styles in React](https://www.freecodecamp.org/learn/front-end-libraries/react/add-inline-styles-in-react)
-  - ✅ [Use Advanced JavaScript in React Render Method](https://www.freecodecamp.org/learn/front-end-libraries/react/use-advanced-javascript-in-react-render-method)
-  - ✅ [Render with an If-Else Condition](https://www.freecodecamp.org/learn/front-end-libraries/react/render-with-an-if-else-condition)
-  - ✅ [Use && for a More Concise Conditional](https://www.freecodecamp.org/learn/front-end-libraries/react/use--for-a-more-concise-conditional)
-  - ✅ [Use a Ternary Expression for Conditional Rendering](https://www.freecodecamp.org/learn/front-end-libraries/react/use-a-ternary-expression-for-conditional-rendering)
-  - ✅ [Render Conditionally from Props](https://www.freecodecamp.org/learn/front-end-libraries/react/render-conditionally-from-props)
-  - ✅ [Change Inline CSS Conditionally Based on Component State](https://www.freecodecamp.org/learn/front-end-libraries/react/change-inline-css-conditionally-based-on-component-state)
-  - ✅ [Use Array.map() to Dynamically Render Elements](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-map-to-dynamically-render-elements)
-  - ✅ [Give Sibling Elements a Unique Key Attribute](https://www.freecodecamp.org/learn/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute)
-  - ✅ [Use Array.filter() to Dynamically Filter an Array](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
-  - ✅ [Render React on the Server with renderToString](https://www.freecodecamp.org/learn/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
+- ✅ [Compose React Components](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
+- ✅ [Render a Class Component to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-a-class-component-to-the-dom)
+- ✅ [Write a React Component from Scratch](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
+- ✅ [Pass Props to a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-props-to-a-stateless-functional-component)
+- ✅ [Pass an Array as Props](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-an-array-as-props)
+- ✅ [Use Default Props](https://www.freecodecamp.org/learn/front-end-libraries/react/use-default-props)
+- ✅ [Override Default Props](https://www.freecodecamp.org/learn/front-end-libraries/react/override-default-props)
+- ✅ [Use PropTypes to Define the Props You Expect](https://www.freecodecamp.org/learn/front-end-libraries/react/use-proptypes-to-define-the-props-you-expect)
+- ✅ [Access Props Using this.props](https://www.freecodecamp.org/learn/front-end-libraries/react/access-props-using-this-props)
+- ✅ [Review Using Props with Stateless Functional Components](https://www.freecodecamp.org/learn/front-end-libraries/react/review-using-props-with-stateless-functional-components)
+- ✅ [Create a Stateful Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateful-component)
+- ✅ [Render State in the User Interface](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface)
+- ✅ [Render State in the User Interface Another Way](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface-another-way)
+- ✅ [Set State with this.setState](https://www.freecodecamp.org/learn/front-end-libraries/react/set-state-with-this-setstate)
+- ✅ [Bind 'this' to a Class Method](https://www.freecodecamp.org/learn/front-end-libraries/react/bind-this-to-a-class-method)
+- ✅ [Use State to Toggle an Element](https://www.freecodecamp.org/learn/front-end-libraries/react/use-state-to-toggle-an-element)
+- ✅ [Write a Simple Counter](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-simple-counter)
+- ✅ [Create a Controlled Input](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-input)
+- ✅ [Create a Controlled Form](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-form)
+- ✅ [Pass State as Props to Child Components](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-state-as-props-to-child-components)
+- ✅ [Pass a Callback as Props](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
+- ✅ [Use the Lifecycle Method componentWillMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentwillmount)
+- ✅ [Use the Lifecycle Method componentDidMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentdidmount)
+- ✅ [Add Event Listeners](https://www.freecodecamp.org/learn/front-end-libraries/react/add-event-listeners)
+- ✅ [Optimize Re-Renders with shouldComponentUpdate](https://www.freecodecamp.org/learn/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate)
+- ✅ [Introducing Inline Styles](https://www.freecodecamp.org/learn/front-end-libraries/react/introducing-inline-styles)
+- ✅ [Add Inline Styles in React](https://www.freecodecamp.org/learn/front-end-libraries/react/add-inline-styles-in-react)
+- ✅ [Use Advanced JavaScript in React Render Method](https://www.freecodecamp.org/learn/front-end-libraries/react/use-advanced-javascript-in-react-render-method)
+- ✅ [Render with an If-Else Condition](https://www.freecodecamp.org/learn/front-end-libraries/react/render-with-an-if-else-condition)
+- ✅ [Use && for a More Concise Conditional](https://www.freecodecamp.org/learn/front-end-libraries/react/use--for-a-more-concise-conditional)
+- ✅ [Use a Ternary Expression for Conditional Rendering](https://www.freecodecamp.org/learn/front-end-libraries/react/use-a-ternary-expression-for-conditional-rendering)
+- ✅ [Render Conditionally from Props](https://www.freecodecamp.org/learn/front-end-libraries/react/render-conditionally-from-props)
+- ✅ [Change Inline CSS Conditionally Based on Component State](https://www.freecodecamp.org/learn/front-end-libraries/react/change-inline-css-conditionally-based-on-component-state)
+- ✅ [Use Array.map() to Dynamically Render Elements](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-map-to-dynamically-render-elements)
+- ✅ [Give Sibling Elements a Unique Key Attribute](https://www.freecodecamp.org/learn/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute)
+- ✅ [Use Array.filter() to Dynamically Filter an Array](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
+- ✅ [Render React on the Server with renderToString](https://www.freecodecamp.org/learn/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
 
 ## Round 3, Day 15: Sunday, August 2, 2020
 **Progress:** Finished some of the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
-  - ✅ [Introduction to the React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/)
-  - ✅ [Create a Simple JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-simple-jsx-element)
-  - ✅ [Create a Complex JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-complex-jsx-element)
-  - ✅ [Add Comments in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/add-comments-in-jsx)
-  - ✅ [Render HTML Elements to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-html-elements-to-the-dom)
-  - ✅ [Define an HTML Class in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/define-an-html-class-in-jsx)
-  - ✅ [Learn About Self-Closing JSX Tags](https://www.freecodecamp.org/learn/front-end-libraries/react/learn-about-self-closing-jsx-tags)
-  - ✅ [Create a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateless-functional-component)
-  - ✅ [Create a React Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-react-component)
-  - ✅ [Create a Component with Composition](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-component-with-composition)
-  - ✅ [Use React to Render Nested Components](https://www.freecodecamp.org/learn/front-end-libraries/react/use-react-to-render-nested-components)
+- ✅ [Introduction to the React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+- ✅ [Create a Simple JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-simple-jsx-element)
+- ✅ [Create a Complex JSX Element](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-complex-jsx-element)
+- ✅ [Add Comments in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/add-comments-in-jsx)
+- ✅ [Render HTML Elements to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-html-elements-to-the-dom)
+- ✅ [Define an HTML Class in JSX](https://www.freecodecamp.org/learn/front-end-libraries/react/define-an-html-class-in-jsx)
+- ✅ [Learn About Self-Closing JSX Tags](https://www.freecodecamp.org/learn/front-end-libraries/react/learn-about-self-closing-jsx-tags)
+- ✅ [Create a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateless-functional-component)
+- ✅ [Create a React Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-react-component)
+- ✅ [Create a Component with Composition](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-component-with-composition)
+- ✅ [Use React to Render Nested Components](https://www.freecodecamp.org/learn/front-end-libraries/react/use-react-to-render-nested-components)
 
 ## Round 3, Day 14: Saturday, August 1, 2020
 **Progress:** New month, new section on freeCodeCamp!
 
-  - Finished the [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/) section on freeCodeCamp.
-    - ✅ [Introduction to the Object Oriented Programming Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/)
-    - ✅ [Create a Basic JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object)
-    - ✅ [Use Dot Notation to Access the Properties of an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object)
-    - ✅ [Create a Method on an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object)
-    - ✅ [Make Code More Reusable with the this Keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword)
-    - ✅ [Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function)
-    - ✅ [Use a Constructor to Create Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects)
-    - ✅ [Extend Constructors to Receive Arguments](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/extend-constructors-to-receive-arguments)
-    - ✅ [Verify an Object's Constructor with instanceof](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof)
-    - ✅ [Understand Own Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-own-properties)
-    - ✅ [Use Prototype Properties to Reduce Duplicate Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-prototype-properties-to-reduce-duplicate-code)
-    - ✅ [Iterate Over All Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties)
-    - ✅ [Understand the Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property)
-    - ✅ [Change the Prototype to a New Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object)
-    - ✅ [Remember to Set the Constructor Property when Changing the Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype)
-    - ✅ [Understand Where an Object’s Prototype Comes From](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from)
-    - ✅ [Understand the Prototype Chain](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain)
-    - ✅ [Use Inheritance So You Don't Repeat Yourself](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself)
-    - ✅ [Inherit Behaviors from a Supertype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype)
-    - ✅ [Set the Child's Prototype to an Instance of the Parent](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent)
-    - ✅ [Reset an Inherited Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property)
-    - ✅ [Add Methods After Inheritance](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance)
-    - ✅ [Override Inherited Methods](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods)
-    - ✅ [Use a Mixin to Add Common Behavior Between Unrelated Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects)
-    - ✅ [Use Closure to Protect Properties Within an Object from Being Modified Externally](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally)
-    - ✅ [Understand the Immediately Invoked Function Expression (IIFE)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife)
-    - ✅ [Use an IIFE to Create a Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module)
+- Finished the [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/) section on freeCodeCamp.
+  - ✅ [Introduction to the Object Oriented Programming Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/)
+  - ✅ [Create a Basic JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object)
+  - ✅ [Use Dot Notation to Access the Properties of an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object)
+  - ✅ [Create a Method on an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object)
+  - ✅ [Make Code More Reusable with the this Keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword)
+  - ✅ [Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function)
+  - ✅ [Use a Constructor to Create Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects)
+  - ✅ [Extend Constructors to Receive Arguments](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/extend-constructors-to-receive-arguments)
+  - ✅ [Verify an Object's Constructor with instanceof](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof)
+  - ✅ [Understand Own Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-own-properties)
+  - ✅ [Use Prototype Properties to Reduce Duplicate Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-prototype-properties-to-reduce-duplicate-code)
+  - ✅ [Iterate Over All Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties)
+  - ✅ [Understand the Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property)
+  - ✅ [Change the Prototype to a New Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object)
+  - ✅ [Remember to Set the Constructor Property when Changing the Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype)
+  - ✅ [Understand Where an Object’s Prototype Comes From](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from)
+  - ✅ [Understand the Prototype Chain](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain)
+  - ✅ [Use Inheritance So You Don't Repeat Yourself](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself)
+  - ✅ [Inherit Behaviors from a Supertype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/inherit-behaviors-from-a-supertype)
+  - ✅ [Set the Child's Prototype to an Instance of the Parent](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/set-the-childs-prototype-to-an-instance-of-the-parent)
+  - ✅ [Reset an Inherited Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/reset-an-inherited-constructor-property)
+  - ✅ [Add Methods After Inheritance](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/add-methods-after-inheritance)
+  - ✅ [Override Inherited Methods](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/override-inherited-methods)
+  - ✅ [Use a Mixin to Add Common Behavior Between Unrelated Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-mixin-to-add-common-behavior-between-unrelated-objects)
+  - ✅ [Use Closure to Protect Properties Within an Object from Being Modified Externally](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-closure-to-protect-properties-within-an-object-from-being-modified-externally)
+  - ✅ [Understand the Immediately Invoked Function Expression (IIFE)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-immediately-invoked-function-expression-iife)
+  - ✅ [Use an IIFE to Create a Module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module)
 
-  - Finished the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/) section on freeCodeCamp.
-    - ✅ [Introduction to the Functional Programming Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
-    - ✅ [Learn About Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming)
-    - ✅ [Understand Functional Programming Terminology](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology)
-    - ✅ [Understand the Hazards of Using Imperative Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-the-hazards-of-using-imperative-code)
-    - ✅ [Avoid Mutations and Side Effects Using Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming)
-    - ✅ [Pass Arguments to Avoid External Dependence in a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function)
-    - ✅ [Refactor Global Variables Out of Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions)
-    - ✅ [Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
-    - ✅ [Implement map on a Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype)
-    - ✅ [Use the filter Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
-    - ✅ [Implement the filter Method on a Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype)
-    - ✅ [Return Part of an Array Using the slice Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method)
-    - ✅ [Remove Elements from an Array Using slice Instead of splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/remove-elements-from-an-array-using-slice-instead-of-splice)
-    - ✅ [Combine Two Arrays Using the concat Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method)
-    - ✅ [Add Elements to the End of an Array Using concat Instead of push](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/add-elements-to-the-end-of-an-array-using-concat-instead-of-push)
-    - ✅ [Use the reduce Method to Analyze Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data)
-    - ✅ [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem)
-    - ✅ [Sort an Array Alphabetically using the sort Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method)
-    - ✅ [Return a Sorted Array Without Changing the Original Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array)
-    - ✅ [Split a String into an Array Using the split Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
-    - ✅ [Combine an Array into a String Using the join Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method)
-    - ✅ [Apply Functional Programming to Convert Strings to URL Slugs](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs)
-    - ✅ [Use the every Method to Check that Every Element in an Array Meets a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria)
-    - ✅ [Use the some Method to Check that Any Elements in an Array Meet a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria)
-    - ✅ [Introduction to Currying and Partial Application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
+- Finished the [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/) section on freeCodeCamp.
+  - ✅ [Introduction to the Functional Programming Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+  - ✅ [Learn About Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming)
+  - ✅ [Understand Functional Programming Terminology](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology)
+  - ✅ [Understand the Hazards of Using Imperative Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-the-hazards-of-using-imperative-code)
+  - ✅ [Avoid Mutations and Side Effects Using Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/avoid-mutations-and-side-effects-using-functional-programming)
+  - ✅ [Pass Arguments to Avoid External Dependence in a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/pass-arguments-to-avoid-external-dependence-in-a-function)
+  - ✅ [Refactor Global Variables Out of Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/refactor-global-variables-out-of-functions)
+  - ✅ [Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
+  - ✅ [Implement map on a Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-map-on-a-prototype)
+  - ✅ [Use the filter Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
+  - ✅ [Implement the filter Method on a Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype)
+  - ✅ [Return Part of an Array Using the slice Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-part-of-an-array-using-the-slice-method)
+  - ✅ [Remove Elements from an Array Using slice Instead of splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/remove-elements-from-an-array-using-slice-instead-of-splice)
+  - ✅ [Combine Two Arrays Using the concat Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-two-arrays-using-the-concat-method)
+  - ✅ [Add Elements to the End of an Array Using concat Instead of push](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/add-elements-to-the-end-of-an-array-using-concat-instead-of-push)
+  - ✅ [Use the reduce Method to Analyze Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data)
+  - ✅ [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem)
+  - ✅ [Sort an Array Alphabetically using the sort Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method)
+  - ✅ [Return a Sorted Array Without Changing the Original Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array)
+  - ✅ [Split a String into an Array Using the split Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
+  - ✅ [Combine an Array into a String Using the join Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method)
+  - ✅ [Apply Functional Programming to Convert Strings to URL Slugs](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs)
+  - ✅ [Use the every Method to Check that Every Element in an Array Meets a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria)
+  - ✅ [Use the some Method to Check that Any Elements in an Array Meet a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria)
+  - ✅ [Introduction to Currying and Partial Application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
 
-  - Finished the (new and improved) **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures)** section on freeCodeCamp.
-    - ✅ Here's the certificate: [https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures). Sweet.
+- Finished the (new and improved) **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures)** section on freeCodeCamp.
+  - ✅ Here's the certificate: [https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures](https://www.freecodecamp.org/certification/joeweaver/javascript-algorithms-and-data-structures). Sweet.
 
-  - Started the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
+- Started the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
 
 ## Round 3, Day 13: Friday, July 31, 2020
 **Progress:** Did a lot today! That's nice. 😀
 
-  - Finished the last of the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/) challenges on freeCodeCamp. Yawn. Boring. Not fun.
-    - ✅ [Positive and Negative Lookahead](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
-    - ✅ [Check For Mixed Grouping of Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters)
-    - ✅ [Reuse Patterns Using Capture Groups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)
-    - ✅ [Use Capture Groups to Search and Replace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace)
-    - ✅ [Remove Whitespace from Start and End](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)
+- Finished the last of the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/) challenges on freeCodeCamp. Yawn. Boring. Not fun.
+  - ✅ [Positive and Negative Lookahead](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
+  - ✅ [Check For Mixed Grouping of Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters)
+  - ✅ [Reuse Patterns Using Capture Groups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)
+  - ✅ [Use Capture Groups to Search and Replace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace)
+  - ✅ [Remove Whitespace from Start and End](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)
 
-  - Finished the [Debugging Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/) section on freeCodeCamp. Still not particularly fun, buta heck of a lot less un-fun (and far more useful, in the long run) than the Regular Expressions section!
-    - ✅ [Introduction to the Debugging Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
-    - ✅ [Use the JavaScript Console to Check the Value of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)
-    - ✅ [Understanding the Differences between the freeCodeCamp and Browser Console](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console)
-    - ✅ [Use typeof to Check the Type of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)
-    - ✅ [Catch Misspelled Variable and Function Names](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)
-    - ✅ [Catch Unclosed Parentheses, Brackets, Braces and Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
-    - ✅ [Catch Mixed Usage of Single and Double Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-mixed-usage-of-single-and-double-quotes)
-    - ✅ [Catch Use of Assignment Operator Instead of Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)
-    - ✅ [Catch Missing Open and Closing Parenthesis After a Function Call](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call)
-    - ✅ [Catch Arguments Passed in the Wrong Order When Calling a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)
-    - ✅ [Catch Off By One Errors When Using Indexing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)
-    - ✅ [Use Caution When Reinitializing Variables Inside a Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)
-    - ✅ [Prevent Infinite Loops with a Valid Terminal Condition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)
+- Finished the [Debugging Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/) section on freeCodeCamp. Still not particularly fun, buta heck of a lot less un-fun (and far more useful, in the long run) than the Regular Expressions section!
+  - ✅ [Introduction to the Debugging Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/)
+  - ✅ [Use the JavaScript Console to Check the Value of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)
+  - ✅ [Understanding the Differences between the freeCodeCamp and Browser Console](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console)
+  - ✅ [Use typeof to Check the Type of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)
+  - ✅ [Catch Misspelled Variable and Function Names](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)
+  - ✅ [Catch Unclosed Parentheses, Brackets, Braces and Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
+  - ✅ [Catch Mixed Usage of Single and Double Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-mixed-usage-of-single-and-double-quotes)
+  - ✅ [Catch Use of Assignment Operator Instead of Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)
+  - ✅ [Catch Missing Open and Closing Parenthesis After a Function Call](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call)
+  - ✅ [Catch Arguments Passed in the Wrong Order When Calling a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)
+  - ✅ [Catch Off By One Errors When Using Indexing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)
+  - ✅ [Use Caution When Reinitializing Variables Inside a Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)
+  - ✅ [Prevent Infinite Loops with a Valid Terminal Condition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)
 
-  - Finished the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/) section on freeCodeCamp.
-    - ✅ [Introduction to the Basic Data Structure Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)
-    - ✅ [Use an Array to Store a Collection of Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
-    - ✅ [Access an Array's Contents Using Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
-    - ✅ [Add Items to an Array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
-    - ✅ [Remove Items from an Array with pop() and shift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift)
-    - ✅ [Remove Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice)
-    - ✅ [Add Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice)
-    - ✅ [Copy Array Items Using slice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
-    - ✅ [Copy an Array with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator)
-    - ✅ [Combine Arrays with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
-    - ✅ [Check For The Presence of an Element With indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
-    - ✅ [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
-    - ✅ [Create complex multi-dimensional arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays)
-    - ✅ [Add Key-Value Pairs to JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
-    - ✅ [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
-    - ✅ [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
-    - ✅ [Use the delete Keyword to Remove Object Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties)
-    - ✅ [Check if an Object has a Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property)
-    - ✅ [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
-    - ✅ [Generate an Array of All Object Keys with Object.keys()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
-    - ✅ [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
+- Finished the [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/) section on freeCodeCamp.
+  - ✅ [Introduction to the Basic Data Structure Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/)
+  - ✅ [Use an Array to Store a Collection of Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
+  - ✅ [Access an Array's Contents Using Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
+  - ✅ [Add Items to an Array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
+  - ✅ [Remove Items from an Array with pop() and shift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-from-an-array-with-pop-and-shift)
+  - ✅ [Remove Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice)
+  - ✅ [Add Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-using-splice)
+  - ✅ [Copy Array Items Using slice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
+  - ✅ [Copy an Array with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator)
+  - ✅ [Combine Arrays with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
+  - ✅ [Check For The Presence of an Element With indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
+  - ✅ [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+  - ✅ [Create complex multi-dimensional arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays)
+  - ✅ [Add Key-Value Pairs to JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
+  - ✅ [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
+  - ✅ [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
+  - ✅ [Use the delete Keyword to Remove Object Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties)
+  - ✅ [Check if an Object has a Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property)
+  - ✅ [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
+  - ✅ [Generate an Array of All Object Keys with Object.keys()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
+  - ✅ [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 
 ## Round 3, Day 12: Thursday, July 30, 2020
 **Progress:** Finished the first 28 of the [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/) challenges on freeCodeCamp!
-  - ✅ [Introduction to the Regular Expression Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
-  - ✅ [Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)
-  - ✅ [Match Literal Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings)
-  - ✅ [Match a Literal String with Different Possibilities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-a-literal-string-with-different-possibilities)
-  - ✅ [Ignore Case While Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching)
-  - ✅ [Extract Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
-  - ✅ [Find More Than the First Match](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)
-  - ✅ [Match Anything with Wildcard Period](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)
-  - ✅ [Match Single Character with Multiple Possibilities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities)
-  - ✅ [Match Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet)
-  - ✅ [Match Numbers and Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)
-  - ✅ [Match Single Characters Not Specified](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)
-  - ✅ [Match Characters that Occur One or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times)
-  - ✅ [Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
-  - ✅ [Find Characters with Lazy Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)
-  - ✅ [Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
-  - ✅ [Match Beginning String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)
-  - ✅ [Match Ending String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)
-  - ✅ [Match All Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers)
-  - ✅ [Match Everything But Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)
-  - ✅ [Match All Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers)
-  - ✅ [Match All Non-Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers)
-  - ✅ [Restrict Possible Usernames](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
-  - ✅ [Match Whitespace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace)
-  - ✅ [Match Non-Whitespace Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters)
-  - ✅ [Specify Upper and Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches)
-  - ✅ [Specify Only the Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches)
-  - ✅ [Specify Exact Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches)
-  - ✅ [Check for All or None](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)
+- ✅ [Introduction to the Regular Expression Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+- ✅ [Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)
+- ✅ [Match Literal Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings)
+- ✅ [Match a Literal String with Different Possibilities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-a-literal-string-with-different-possibilities)
+- ✅ [Ignore Case While Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching)
+- ✅ [Extract Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
+- ✅ [Find More Than the First Match](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)
+- ✅ [Match Anything with Wildcard Period](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)
+- ✅ [Match Single Character with Multiple Possibilities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities)
+- ✅ [Match Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet)
+- ✅ [Match Numbers and Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)
+- ✅ [Match Single Characters Not Specified](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)
+- ✅ [Match Characters that Occur One or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times)
+- ✅ [Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
+- ✅ [Find Characters with Lazy Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)
+- ✅ [Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
+- ✅ [Match Beginning String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)
+- ✅ [Match Ending String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)
+- ✅ [Match All Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers)
+- ✅ [Match Everything But Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)
+- ✅ [Match All Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers)
+- ✅ [Match All Non-Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers)
+- ✅ [Restrict Possible Usernames](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
+- ✅ [Match Whitespace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace)
+- ✅ [Match Non-Whitespace Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters)
+- ✅ [Specify Upper and Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches)
+- ✅ [Specify Only the Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches)
+- ✅ [Specify Exact Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches)
+- ✅ [Check for All or None](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)
 
 ## Round 3, Day 11: Wednesday, July 29, 2020
 **Progress:**
 - Finished off the [Responsive Web Design Projects - Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) project on freeCodeCamp.
 
 - Finished the (new and improved) **[Responsive Web Design](https://www.freecodecamp.org/certification/joeweaver/responsive-web-design)** section on freeCodeCamp.
-    - ✅ Here's the certificate: [https://www.freecodecamp.org/certification/joeweaver/responsive-web-design](https://www.freecodecamp.org/certification/joeweaver/responsive-web-design). Noice.
+  - ✅ Here's the certificate: [https://www.freecodecamp.org/certification/joeweaver/responsive-web-design](https://www.freecodecamp.org/certification/joeweaver/responsive-web-design). Noice.
 
 - Also, completed the **ES6** section of the **JavaScript Algorithms and Data Structures Certification** on freeCodeCamp.
-  - ✅ [Create Strings using Template Literals](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
-  - ✅ [Write Concise Object Literal Declarations Using Object Property Shorthand](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand)
-  - ✅ [Write Concise Declarative Functions with ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)
-  - ✅ [Use class Syntax to Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)
-  - ✅ [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
-  - ✅ [Create a Module Script](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script)
-  - ✅ [Use export to Share a Code Block](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block)
-  - ✅ [Reuse JavaScript Code Using import](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)
-  - ✅ [Use * to Import Everything from a File](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
-  - ✅ [Create an Export Fallback with export default](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
-  - ✅ [Import a Default Export](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
-  - ✅ [Create a JavaScript Promise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise)
-  - ✅ [Complete a Promise with resolve and reject](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/complete-a-promise-with-resolve-and-reject)
-  - ✅ [Handle a Fulfilled Promise with then](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-fulfilled-promise-with-then)
-  - ✅ [Handle a Rejected Promise with catch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)
+- ✅ [Create Strings using Template Literals](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
+- ✅ [Write Concise Object Literal Declarations Using Object Property Shorthand](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand)
+- ✅ [Write Concise Declarative Functions with ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)
+- ✅ [Use class Syntax to Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)
+- ✅ [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+- ✅ [Create a Module Script](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script)
+- ✅ [Use export to Share a Code Block](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block)
+- ✅ [Reuse JavaScript Code Using import](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)
+- ✅ [Use * to Import Everything from a File](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
+- ✅ [Create an Export Fallback with export default](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
+- ✅ [Import a Default Export](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
+- ✅ [Create a JavaScript Promise](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise)
+- ✅ [Complete a Promise with resolve and reject](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/complete-a-promise-with-resolve-and-reject)
+- ✅ [Handle a Fulfilled Promise with then](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-fulfilled-promise-with-then)
+- ✅ [Handle a Rejected Promise with catch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)
 
 ## Round 3, Day 10: Tuesday, July 28, 2020
 **Progress:** Created a basic **Minesweeper** clone on CodePen here: [Minesweeper Clone](https://codepen.io/JoeCodesStuff/pen/MWKdwER). Quite a fun project! It currently works just fine, but I still have some stuff to finish, such as:
@@ -502,10 +502,10 @@
 - Adding a restart button for when the game is won or lost.
 - Adding a clock / countdown / count-up timer.
 - Adding a difficulty selector like in the original Minesweeper game:
-  - Easy (9x9 grid with 10 mines)
-  - Medium (16x16 grid with 40 mines)
-  - Hard (16x30 grid with 99 mines)
-  - Custom (custom size with custom number of mines)
+- Easy (9x9 grid with 10 mines)
+- Medium (16x16 grid with 40 mines)
+- Hard (16x30 grid with 99 mines)
+- Custom (custom size with custom number of mines)
 - Adding a counter for how many flags I have left.
 - Making post-flag clearing work (when you click both mouse buttons simultaneously on a tile with the correct number of adjacent flagged tiles according to that tile's number, it auto-clicks -- and ostensibly auto-clears -- all unflagged adjacent tiles of the clicked tile. This will lose you the game if you didn't properly flag the adjacent tiles, but greatly speeds up the clearing process.
 - There's also refactoring to take into account, to make sure any recursion has the lowest possible order of time complexity (in big O notation). I want to see if I simplify things so a setTimeout function on the recursive null-hit click clearing isn't necessary.
@@ -545,14 +545,14 @@
 
 ## Round 3, Day 7: Saturday, July 25, 2020
 **Progress:** Finished the [Basic JavaScript: Use Recursion to Create a Range of Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers) challenge with the following solution:
-    - `function rangeOfNumbers(startNum, endNum) { if (startNum === endNum) { return [startNum]; } else { const arr = rangeOfNumbers(startNum + 1, endNum); arr.unshift(startNum); return arr; } }`
+  - `function rangeOfNumbers(startNum, endNum) { if (startNum === endNum) { return [startNum]; } else { const arr = rangeOfNumbers(startNum + 1, endNum); arr.unshift(startNum); return arr; } }`
 
 ## Round 3, Day 6: Friday, July 24, 2020
 **Progress:** Finished off the [Responsive Web Design Projects - Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) project on freeCodeCamp, and started on the [Responsive Web Design Projects - Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) project. Also, finished the following challenges:
 - ✅ [Basic JavaScript: Replace Loops using Recursion](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
-    - `function sum(arr, n) { return n == 0 ? 0 : sum(arr, n - 1) + arr[n - 1]; }`
+  - `function sum(arr, n) { return n == 0 ? 0 : sum(arr, n - 1) + arr[n - 1]; }`
 - ✅ [Basic JavaScript: Use Recursion to Create a Countdown](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown)
-    - `function countdown(n){ if (n < 1) { return []; } else { const arr = countdown(n-1); arr.unshift(n); return arr; } }`
+  - `function countdown(n){ if (n < 1) { return []; } else { const arr = countdown(n-1); arr.unshift(n); return arr; } }`
 
 
 ## Round 3, Day 5: Thursday, July 23, 2020
