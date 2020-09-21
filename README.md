@@ -1,6 +1,18 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 65: Monday, September 21, 2020
+**Progress:** Continued on [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/).
+- ✅ 13. ES6 Aside: const and let
+- ✅ 14. ES6 Aside: Arrow Functions
+- ✅ 15. ES6 Aside: Arrow Functions Part II
+- ✅ 16. Events and Attributes
+- ✅ 17. Manual Data Binding
+- ✅ 18. Forms and Inputs
+- ✅ 19. Arrays in JSX
+- ✅ 20. Picking an Option
+- ✅ 21. Build It: Visibility Toggle
+
 ## Round 3, Day 64: Sunday, September 20, 2020
 **Progress:** Continued on [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/).
 
