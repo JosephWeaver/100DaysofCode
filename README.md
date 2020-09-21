@@ -1,6 +1,17 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 3, Day 64: Sunday, September 20, 2020
+**Progress:** Continued on [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/).
+
+- ✅ 6. Section Intro: Hello React
+- ✅ 7. Setting up a Web Server
+- ✅ 8. Hello React
+- ✅ 9. Setting up Babel
+- ✅ 10. Exploring JSX
+- ✅ 11. JSX Expressions
+- ✅ 12. Conditional Rendering in JSX
+
 ## Round 3, Day 63: Saturday, September 19, 2020
 **Progress:** Reset my progress and started over on [Andrew Mead](https://mead.io)'s [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/). I need to get a job soon, so I should be getting my hands dirty with React as much as possible. I may also take Stephen Grider's course [Modern React with Redux (2020 Update)](https://www.udemy.com/course/react-redux/) after this one, for good measure! A little bit (read: a lot) of recap from a different teaching perspective certainly couldn't hurt!
 
