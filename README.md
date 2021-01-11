@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 4, Day 1: Sunday, January 10, 2021
+**Progress:** Continued on the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
+- ✅ [Set State with this.setState](https://www.freecodecamp.org/learn/front-end-libraries/react/set-state-with-this-setstate)
+
 ## Round 3, Day 65: Monday, September 21, 2020
 **Progress:** Continued on [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/).
 - ✅ 13. ES6 Aside: const and let
@@ -12,7 +16,6 @@
 - ✅ 19. Arrays in JSX
 - ✅ 20. Picking an Option
 - ✅ 21. Build It: Visibility Toggle
-
 ## Round 3, Day 64: Sunday, September 20, 2020
 **Progress:** Continued on [The Complete React Developer Course (w/ Hooks and Redux)](https://www.udemy.com/course/react-2nd-edition/).
 
@@ -307,7 +310,7 @@
 - ✅ [Remove a Package from Your Dependencies](https://www.freecodecamp.org/learn/apis-and-microservices/managing-packages-with-npm/remove-a-package-from-your-dependencies)
 
 ## Round 3, Day 16: Monday, August 3, 2020
-**Progress:** Finished the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp. Woo!
+**Progress:** Finished some of the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
 - ✅ [Compose React Components](https://www.freecodecamp.org/learn/front-end-libraries/react/compose-react-components)
 - ✅ [Render a Class Component to the DOM](https://www.freecodecamp.org/learn/front-end-libraries/react/render-a-class-component-to-the-dom)
 - ✅ [Write a React Component from Scratch](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-react-component-from-scratch)
@@ -321,30 +324,6 @@
 - ✅ [Create a Stateful Component](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-stateful-component)
 - ✅ [Render State in the User Interface](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface)
 - ✅ [Render State in the User Interface Another Way](https://www.freecodecamp.org/learn/front-end-libraries/react/render-state-in-the-user-interface-another-way)
-- ✅ [Set State with this.setState](https://www.freecodecamp.org/learn/front-end-libraries/react/set-state-with-this-setstate)
-- ✅ [Bind 'this' to a Class Method](https://www.freecodecamp.org/learn/front-end-libraries/react/bind-this-to-a-class-method)
-- ✅ [Use State to Toggle an Element](https://www.freecodecamp.org/learn/front-end-libraries/react/use-state-to-toggle-an-element)
-- ✅ [Write a Simple Counter](https://www.freecodecamp.org/learn/front-end-libraries/react/write-a-simple-counter)
-- ✅ [Create a Controlled Input](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-input)
-- ✅ [Create a Controlled Form](https://www.freecodecamp.org/learn/front-end-libraries/react/create-a-controlled-form)
-- ✅ [Pass State as Props to Child Components](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-state-as-props-to-child-components)
-- ✅ [Pass a Callback as Props](https://www.freecodecamp.org/learn/front-end-libraries/react/pass-a-callback-as-props)
-- ✅ [Use the Lifecycle Method componentWillMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentwillmount)
-- ✅ [Use the Lifecycle Method componentDidMount](https://www.freecodecamp.org/learn/front-end-libraries/react/use-the-lifecycle-method-componentdidmount)
-- ✅ [Add Event Listeners](https://www.freecodecamp.org/learn/front-end-libraries/react/add-event-listeners)
-- ✅ [Optimize Re-Renders with shouldComponentUpdate](https://www.freecodecamp.org/learn/front-end-libraries/react/optimize-re-renders-with-shouldcomponentupdate)
-- ✅ [Introducing Inline Styles](https://www.freecodecamp.org/learn/front-end-libraries/react/introducing-inline-styles)
-- ✅ [Add Inline Styles in React](https://www.freecodecamp.org/learn/front-end-libraries/react/add-inline-styles-in-react)
-- ✅ [Use Advanced JavaScript in React Render Method](https://www.freecodecamp.org/learn/front-end-libraries/react/use-advanced-javascript-in-react-render-method)
-- ✅ [Render with an If-Else Condition](https://www.freecodecamp.org/learn/front-end-libraries/react/render-with-an-if-else-condition)
-- ✅ [Use && for a More Concise Conditional](https://www.freecodecamp.org/learn/front-end-libraries/react/use--for-a-more-concise-conditional)
-- ✅ [Use a Ternary Expression for Conditional Rendering](https://www.freecodecamp.org/learn/front-end-libraries/react/use-a-ternary-expression-for-conditional-rendering)
-- ✅ [Render Conditionally from Props](https://www.freecodecamp.org/learn/front-end-libraries/react/render-conditionally-from-props)
-- ✅ [Change Inline CSS Conditionally Based on Component State](https://www.freecodecamp.org/learn/front-end-libraries/react/change-inline-css-conditionally-based-on-component-state)
-- ✅ [Use Array.map() to Dynamically Render Elements](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-map-to-dynamically-render-elements)
-- ✅ [Give Sibling Elements a Unique Key Attribute](https://www.freecodecamp.org/learn/front-end-libraries/react/give-sibling-elements-a-unique-key-attribute)
-- ✅ [Use Array.filter() to Dynamically Filter an Array](https://www.freecodecamp.org/learn/front-end-libraries/react/use-array-filter-to-dynamically-filter-an-array)
-- ✅ [Render React on the Server with renderToString](https://www.freecodecamp.org/learn/front-end-libraries/react/render-react-on-the-server-with-rendertostring)
 
 ## Round 3, Day 15: Sunday, August 2, 2020
 **Progress:** Finished some of the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
