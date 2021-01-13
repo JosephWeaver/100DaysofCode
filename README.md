@@ -1,6 +1,10 @@
 # 100DaysofCode - Log
 ✅ Accountability for my coding journey on #100DaysOfCode!
 
+## Round 4, Day 3: Tuesday, January 12, 2021
+**Progress:** Continued on the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
+- ✅ [Use State to Toggle an Element](https://www.freecodecamp.org/learn/front-end-libraries/react/use-state-to-toggle-an-element)
+
 ## Round 4, Day 2: Monday, January 11, 2021
 **Progress:** Continued on the [React](https://www.freecodecamp.org/learn/front-end-libraries/react/) section on the **[Front End Libraries Certification](https://www.freecodecamp.org/certification/joeweaver/front-end-libraries)** on freeCodeCamp.
 - ✅ [Bind 'this' to a Class Method](https://www.freecodecamp.org/learn/front-end-libraries/react/bind-this-to-a-class-method)
